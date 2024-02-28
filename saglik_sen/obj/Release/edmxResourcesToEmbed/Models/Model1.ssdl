@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="SAGLIKSENModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="KULLANICILAR">
+    <Key>
+      <PropertyRef Name="KULLANICI_ID" />
+    </Key>
+    <Property Name="KULLANICI_ID" Type="int" Nullable="false" />
+    <Property Name="KULLANICI" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="SIFRE" Type="varchar" MaxLength="50" Nullable="false" />
+  </EntityType>
+  <EntityType Name="KURUMLAR">
+    <Key>
+      <PropertyRef Name="KURUM_ID" />
+    </Key>
+    <Property Name="KURUM_ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="KURUM" Type="varchar" MaxLength="100" Nullable="false" />
+  </EntityType>
+  <EntityType Name="LOG">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="TC" Type="varchar" MaxLength="11" Nullable="false" />
+    <Property Name="ADI" Type="varchar" MaxLength="100" Nullable="false" />
+    <Property Name="GONDERILEN_SMS" Type="varchar" MaxLength="255" Nullable="false" />
+    <Property Name="GONDERIM_TARIHI" Type="datetime" Nullable="false" />
+  </EntityType>
+  <EntityType Name="sysdiagrams">
+    <Key>
+      <PropertyRef Name="diagram_id" />
+    </Key>
+    <Property Name="name" Type="nvarchar" MaxLength="128" Nullable="false" />
+    <Property Name="principal_id" Type="int" Nullable="false" />
+    <Property Name="diagram_id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="version" Type="int" />
+    <Property Name="definition" Type="varbinary(max)" />
+  </EntityType>
+  <EntityType Name="UYELER">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="TC" Type="varchar" MaxLength="11" Nullable="false" />
+    <Property Name="AD" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="SOYAD" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="KURUM_ID" Type="int" Nullable="false" />
+    <Property Name="TEL" Type="varchar" MaxLength="11" />
+    <Property Name="DOGUM_TARIHI" Type="date" />
+    <Property Name="UNVAN" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="UYELIK_DURUMU" Type="smallint" Nullable="false" />
+  </EntityType>
+  <Association Name="FK_UYELER_KURUMLAR">
+    <End Role="KURUMLAR" Type="Self.KURUMLAR" Multiplicity="1" />
+    <End Role="UYELER" Type="Self.UYELER" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="KURUMLAR">
+        <PropertyRef Name="KURUM_ID" />
+      </Principal>
+      <Dependent Role="UYELER">
+        <PropertyRef Name="KURUM_ID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="SAGLIKSENModelStoreContainer">
+    <EntitySet Name="KULLANICILAR" EntityType="Self.KULLANICILAR" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="KURUMLAR" EntityType="Self.KURUMLAR" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="LOG" EntityType="Self.LOG" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="sysdiagrams" EntityType="Self.sysdiagrams" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="UYELER" EntityType="Self.UYELER" Schema="dbo" store:Type="Tables" />
+    <AssociationSet Name="FK_UYELER_KURUMLAR" Association="Self.FK_UYELER_KURUMLAR">
+      <End Role="KURUMLAR" EntitySet="KURUMLAR" />
+      <End Role="UYELER" EntitySet="UYELER" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

@@ -1,0 +1,129 @@
+﻿@using saglik_sen.Models
+@model List<saglik_sen.Models.UYELER>
+
+
+    @{ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="card shadow mb-4" id="anadiv" style="width:100%;">
+    <div class="card-header py-3">
+        <h6 class="m-0 font-weight-bold text-primary">Üyeler</h6>
+    </div>
+    <div class="card-body">
+        <div class="table-responsive">
+
+            <table class="table table-condensed table-hover dataTable no-footer" id="tbl1" width="100%" cellspacing="0">
+                <thead>
+                    <tr>
+                        <th>
+                            Adı
+                        </th>
+                        <th>
+                            Soyadı
+                        </th>
+                        <th>
+                            Telefon
+                        </th>
+                        <th>
+                            Doğum Tarihi
+                        </th>
+                        <th>
+                            Kurumu
+                        </th>
+                        <th>
+                            Ünvan
+                        </th>
+                        <th>
+                            TC
+                        </th>
+                        <th>
+                            Üyelik Durumu
+                        </th>
+                        <th>
+                            Güncelle
+                        </th>
+                        <th>
+                            Sil
+                        </th>
+                    </tr>
+                </thead>
+                <tfoot>
+                    <tr>
+                        <th>
+                            Adı
+                        </th>
+                        <th>
+                            Soyadı
+                        </th>
+                        <th>
+                            Telefon
+                        </th>
+                        <th>
+                            Doğum Tarihi
+                        </th>
+                        <th>
+                            Kurumu
+                        </th>
+                        <th>
+                            Ünvan
+                        </th>
+                        <th>
+                            TC
+                        </th>
+                        <th>
+                            Üyelik Durumu
+                        </th>
+                        <th>
+                            Güncelle
+                        </th>
+                        <th>
+                            Sil
+                        </th>
+                    </tr>
+                </tfoot>
+                <tbody>
+                    @foreach (var item in Model)
+                    {
+                    <tr>
+                        <td>@item.AD</td>
+                        <td>@item.SOYAD</td>
+                        <td>@item.TEL</td>
+                        <td>@item.DOGUM_TARIHI.ToString("dd/MM/yyyy")</td>
+                        <td>@item.KURUMLAR.KURUM</td>
+                        <td>@item.UNVAN</td>
+                        <td>@item.TC</td>
+
+                        @if (@item.UYELIK_DURUMU == 1)
+                        {
+                            <td>Aktif</td>
+                        }
+                        else
+                        {
+                            <td>
+                                Pasif
+                            </td>
+                        }
+                        <td><a href="/Uyeler/guncelle/@item.ID" class="btn btn-outline-primary">Güncelle</a></td>
+                        <td>@Html.ActionLink("Sil", "Sil", new { id = item.ID }, new { @class = "btn btn-outline-danger", onclick = "return confirm('Kalıcı Olarak Silmek İstiyor Musunuz?')" })</td>
+
+                    </tr>
+                    }
+                </tbody>
+            </table>
+            
+            <div>
+            <a href="~/Uyeler/uyeekle/" class=" btn btn-success">Üye Ekle</a>
+            
+            </div>
+
+        </div>
+    </div>
+</div>
+
+
+
+
+
+
+

@@ -1,0 +1,50 @@
+﻿@using saglik_sen.Models
+@model  List<saglik_sen.Models.KURUMLAR>
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="card shadow mb-4" style="width:100%;">
+    <div class="card-header py-3">
+        <h6 class="m-0 font-weight-bold text-primary">Kurumlar</h6>
+    </div>
+    <div class="card-body">
+
+        <table class="table table-condensed table-hover dataTable no-footer" id="tbl1" width="100%">
+            <thead>
+                <tr>
+                    <th>Kurum ID</th>
+                    <th>Kurum Adı</th>
+                    <th>Güncelle</th>
+                    <th>Sil</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in Model)
+                {
+                    <tr>
+
+                        <td>@item.KURUM_ID</td>
+                        <td>@item.KURUM</td>
+                        <td><a href="/Kurumlar/guncelle/@item.KURUM_ID.ToString()" class="btn btn-outline-primary">Güncelle</a></td>
+                        <td>
+                            @Html.ActionLink("Sil", "Sil", new { id = item.KURUM_ID }, new { @class = "btn btn-outline-danger", onclick = "return confirm('Kalıcı Olarak Silmek İstiyor Musunuz?')" })
+                        </td>
+
+
+                    </tr>
+                }
+            </tbody>
+
+        </table>
+       
+        <div>
+            <a class="btn btn-success" href="/Kurumlar/kurumekle/">Kurum Ekle</a>
+        </div>
+
+    </div>
+
+</div>
+
+

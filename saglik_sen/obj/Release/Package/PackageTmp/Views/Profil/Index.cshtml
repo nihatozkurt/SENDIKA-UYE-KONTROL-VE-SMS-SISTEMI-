@@ -1,0 +1,36 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="card shadow mb-4" style="width:50%;">
+    <div class="card-header py-3">
+        <h6 class="m-0 font-weight-bold text-primary">Profil Ayarları</h6>
+    </div>
+    <div class="card-body">
+        <form action="~/Profil/guncelle/" method="post">
+            <table width="100%">
+                <tr>
+
+                    <td>
+                        <input hidden type="text" name="KULLANICI_ID" value="@Session["KID"]" />
+                    </td>
+                    <td>
+                        <label>Kullanıcı Adı</label>
+                        <input class="form-control" type="text" name="KULLANICI" value="@Session["Ad"]" />
+                    </td>
+                    <td></td>
+                    <td>
+                        <label>Şifre</label>
+                        <input class="form-control" type="password" name="SIFRE" />
+                    </td>
+                </tr>
+            </table>
+            <br />
+            <button class="btn btn-primary">Güncelle</button>
+        </form>
+
+    </div>
+
+</div>

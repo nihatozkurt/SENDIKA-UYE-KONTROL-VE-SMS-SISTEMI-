@@ -1,0 +1,119 @@
+﻿@using saglik_sen.Models
+@model UYELER
+  
+@{
+    ViewBag.Title = "uyeekle";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+
+<div class="card shadow mb-4" style="width:100%">
+
+    <div class="card-header py-3">
+        <h6 class="m-0 font-weight-bold text-primary">Üye Ekle</h6>
+    </div>
+
+    <form class="form-group" method="post">
+        <div class="container">
+            <div style="margin-top: 10px;">
+                <div class="row">
+                    <div class="col-6">
+                        <div class="form-group" style="margin-left:10px;margin-right:10px;">
+                            <label>Ad:</label>
+                            @Html.TextBoxFor(x => x.AD, new { @maxlength = "50", @class = "form-control" })
+                            @Html.ValidationMessageFor(x => x.AD, "", new { @style = "color:red" })
+
+                        </div>
+                    </div>
+
+                    <div class="col-6">
+                        <div class="form-group" style="margin-right:10px;">
+                            <label>Soyad:</label>
+                            @Html.TextBoxFor(x => x.SOYAD, new { @maxlength = "50", @class = "form-control" })
+                            @Html.ValidationMessageFor(x => x.SOYAD, "", new { @style = "color:red" })
+
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-6">
+                    <div class="form-group" style="margin-right:10px;margin-left:10px;">
+                        <label>TC:</label>
+                        @Html.TextBoxFor(x => x.TC, new { @pattern = "[0-9]+", @maxlength = "11", @class = "form-control" })
+                        @Html.ValidationMessageFor(x => x.TC, "", new { @style = "color:red" })
+                    </div>
+                </div>
+
+                <div class="col-6">
+                    <div class="form-group" style="margin-right:10px;">
+                        <label>Kurum:</label>
+
+                        <select class="form-control" name="KURUM_ID" required>
+
+                            @foreach (var item in ViewBag.kurumlar)
+                            {
+                                <option value="@item.KURUM_ID">@item.KURUM</option>
+
+
+
+                            }
+                        </select>
+
+                    </div>
+
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-6">
+                    <div class="form-group" style="margin-right:10px;margin-left:10px;">
+                        <label>Telefon:</label>
+                        @Html.TextBoxFor(x => x.TEL, new { @pattern = "[0-9]+", @maxlength = "11", @minlenght = "10", @class = "form-control" })
+                        @Html.ValidationMessageFor(x => x.TEL, "", new { @style = "color:red" })
+                    </div>
+                </div>
+
+                <div class="col-6">
+                    <div class="form-group" style="margin-right:10px;">
+                        <label>Ünvan:</label>
+                        @Html.TextBoxFor(x => x.UNVAN, new { @maxlength = "50", @class = "form-control" })
+                        @Html.ValidationMessageFor(x => x.UNVAN, "", new { @style = "color:red" })
+
+                    </div>
+
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-6">
+                    <div class="form-group" style="margin-right:10px;margin-left:10px;">
+                        <label>Doğum Tarihi:</label>
+                        @Html.TextBoxFor(x => x.DOGUM_TARIHI, "{0:yyyy-MM-dd}", new { @class = "form-control", @type = "date" })
+                        @Html.ValidationMessageFor(x => x.DOGUM_TARIHI, "", new { @style = "color:red" })
+                    </div>
+                </div>
+
+                <div class="col-6" align="center">
+                    <div class="form-group" style="margin-right:10px;">
+                        <input type="text" name="UYELIK_DURUMU" value="1" hidden />
+
+                    </div>
+
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-6">
+                    <div class="form-group" style="margin-right:10px;margin-left:10px;">
+                        <button class="btn btn-success">Yeni Üye Kaydet</button>
+                    </div>
+                </div>
+            </div>
+          
+        </div>
+
+    </form>
+
+</div>
+
+

@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="SAGLIKSENEntities1-Web.config Connection String" description="SAGLIKSENEntities1 Veritabanına erişmek için uygulama tarafından web.config'de kullanılan Bağlantı Dizesi." defaultValue="metadata=res://*/Models.Model1.csdl|res://*/Models.Model1.ssdl|res://*/Models.Model1.msl;provider=System.Data.SqlClient;provider connection string=&quot;data source=IT-03;initial catalog=SAGLIKSEN;user id=sa;password=Ssoothsayer1+;MultipleActiveResultSets=True;App=EntityFramework&quot;" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\nihat\.ozkurt\\Desktop\\GUNCEL\ PROGRAM\\saglik_sen\\saglik_sen\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='SAGLIKSENEntities1']/@connectionString" />
+  </parameter>
+</parameters>

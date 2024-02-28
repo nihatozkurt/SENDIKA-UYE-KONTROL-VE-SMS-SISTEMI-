@@ -1,0 +1,75 @@
+﻿@using saglik_sen.Models
+@model  List<saglik_sen.Models.UYELER>
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="card shadow mb-4" style="width:50%;">
+    <div class="card-header py-3">
+        <h6 class="m-0 font-weight-bold text-primary">Doğum Günü Olan Personeller</h6>
+    </div>
+    <div class="card-body">
+
+        <table class="table table-condensed table-hover dataTable no-footer" width="100%">
+            <thead>
+                <tr>
+                    <th>Adı</th>
+                    <th>Soyadı</th>
+                    <th>Doğum Tarihi</th>
+
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in Model)
+                {
+                    <tr>
+                        <td>
+                            @item.AD
+                        </td>
+                        <td>@item.SOYAD</td>
+                        <td>
+                            @item.DOGUM_TARIHI.ToString("dd/MM/yyyy")
+                        </td>
+                    </tr>
+                }
+                <tr>
+                    <td>
+                        Bugün @Model.Count() üyenin doğum günü...
+
+                    </td>
+                    <td></td>
+                    <td></td>
+                </tr>
+
+            </tbody>
+
+
+
+        </table>
+        <br />
+    </div>
+</div>
+<div class="col-xl-4 col-lg-5">
+    <div class="card shadow mb-4">
+        <!-- Card Header - Dropdown -->
+        <div class="card-header py-3">
+            <h6 class="m-0 font-weight-bold text-primary">Sms Grafikleri</h6>
+        </div>
+        <!-- Card Body -->
+        <div class="card-body">
+            <div class="chart-pie pt-4">
+
+                <canvas id="myPieChart"></canvas>
+            </div>
+            <hr>
+
+        </div>
+    </div>
+</div>
+
+
+
+
+
+

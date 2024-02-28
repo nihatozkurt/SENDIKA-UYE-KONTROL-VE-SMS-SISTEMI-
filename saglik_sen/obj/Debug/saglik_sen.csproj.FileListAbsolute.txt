@@ -1,0 +1,409 @@
+C:\Users\nihat.ozkurt\Desktop\GUNCEL PROGRAM\saglik_sen\saglik_sen\bin\saglik_sen.dll.config
+C:\Users\nihat.ozkurt\Desktop\GUNCEL PROGRAM\saglik_sen\saglik_sen\bin\saglik_sen.dll
+C:\Users\nihat.ozkurt\Desktop\GUNCEL PROGRAM\saglik_sen\saglik_sen\bin\saglik_sen.pdb
+C:\Users\nihat.ozkurt\Desktop\GUNCEL PROGRAM\saglik_sen\saglik_sen\bin\roslyn\csc.exe
+C:\Users\nihat.ozkurt\Desktop\GUNCEL PROGRAM\saglik_sen\saglik_sen\bin\roslyn\csc.exe.config
+C:\Users\nihat.ozkurt\Desktop\GUNCEL PROGRAM\saglik_sen\saglik_sen\bin\roslyn\csc.rsp
+C:\Users\nihat.ozkurt\Desktop\GUNCEL PROGRAM\saglik_sen\saglik_sen\bin\roslyn\csi.exe
+C:\Users\nihat.ozkurt\Desktop\GUNCEL PROGRAM\saglik_sen\saglik_sen\bin\roslyn\csi.rsp
+C:\Users\nihat.ozkurt\Desktop\GUNCEL PROGRAM\saglik_sen\saglik_sen\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\nihat.ozkurt\Desktop\GUNCEL PROGRAM\saglik_sen\saglik_sen\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\nihat.ozkurt\Desktop\GUNCEL PROGRAM\saglik_sen\saglik_sen\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\nihat.ozkurt\Desktop\GUNCEL PROGRAM\saglik_sen\saglik_sen\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\nihat.ozkurt\Desktop\GUNCEL PROGRAM\saglik_sen\saglik_sen\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\nihat.ozkurt\Desktop\GUNCEL PROGRAM\saglik_sen\saglik_sen\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\nihat.ozkurt\Desktop\GUNCEL PROGRAM\saglik_sen\saglik_sen\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\nihat.ozkurt\Desktop\GUNCEL PROGRAM\saglik_sen\saglik_sen\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\nihat.ozkurt\Desktop\GUNCEL PROGRAM\saglik_sen\saglik_sen\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\nihat.ozkurt\Desktop\GUNCEL PROGRAM\saglik_sen\saglik_sen\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\nihat.ozkurt\Desktop\GUNCEL PROGRAM\saglik_sen\saglik_sen\bin\roslyn\System.AppContext.dll
+C:\Users\nihat.ozkurt\Desktop\GUNCEL PROGRAM\saglik_sen\saglik_sen\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\nihat.ozkurt\Desktop\GUNCEL PROGRAM\saglik_sen\saglik_sen\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\nihat.ozkurt\Desktop\GUNCEL PROGRAM\saglik_sen\saglik_sen\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\nihat.ozkurt\Desktop\GUNCEL PROGRAM\saglik_sen\saglik_sen\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\nihat.ozkurt\Desktop\GUNCEL PROGRAM\saglik_sen\saglik_sen\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\nihat.ozkurt\Desktop\GUNCEL PROGRAM\saglik_sen\saglik_sen\bin\roslyn\vbc.exe
+C:\Users\nihat.ozkurt\Desktop\GUNCEL PROGRAM\saglik_sen\saglik_sen\bin\roslyn\vbc.exe.config
+C:\Users\nihat.ozkurt\Desktop\GUNCEL PROGRAM\saglik_sen\saglik_sen\bin\roslyn\vbc.rsp
+C:\Users\nihat.ozkurt\Desktop\GUNCEL PROGRAM\saglik_sen\saglik_sen\bin\roslyn\VBCSCompiler.exe
+C:\Users\nihat.ozkurt\Desktop\GUNCEL PROGRAM\saglik_sen\saglik_sen\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\nihat.ozkurt\Desktop\GUNCEL PROGRAM\saglik_sen\saglik_sen\bin\Antlr3.Runtime.dll
+C:\Users\nihat.ozkurt\Desktop\GUNCEL PROGRAM\saglik_sen\saglik_sen\bin\EntityFramework.dll
+C:\Users\nihat.ozkurt\Desktop\GUNCEL PROGRAM\saglik_sen\saglik_sen\bin\EntityFramework.SqlServer.dll
+C:\Users\nihat.ozkurt\Desktop\GUNCEL PROGRAM\saglik_sen\saglik_sen\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\nihat.ozkurt\Desktop\GUNCEL PROGRAM\saglik_sen\saglik_sen\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\nihat.ozkurt\Desktop\GUNCEL PROGRAM\saglik_sen\saglik_sen\bin\Newtonsoft.Json.dll
+C:\Users\nihat.ozkurt\Desktop\GUNCEL PROGRAM\saglik_sen\saglik_sen\bin\System.Web.Helpers.dll
+C:\Users\nihat.ozkurt\Desktop\GUNCEL PROGRAM\saglik_sen\saglik_sen\bin\System.Web.Mvc.dll
+C:\Users\nihat.ozkurt\Desktop\GUNCEL PROGRAM\saglik_sen\saglik_sen\bin\System.Web.Optimization.dll
+C:\Users\nihat.ozkurt\Desktop\GUNCEL PROGRAM\saglik_sen\saglik_sen\bin\System.Web.Razor.dll
+C:\Users\nihat.ozkurt\Desktop\GUNCEL PROGRAM\saglik_sen\saglik_sen\bin\System.Web.WebPages.Deployment.dll
+C:\Users\nihat.ozkurt\Desktop\GUNCEL PROGRAM\saglik_sen\saglik_sen\bin\System.Web.WebPages.dll
+C:\Users\nihat.ozkurt\Desktop\GUNCEL PROGRAM\saglik_sen\saglik_sen\bin\System.Web.WebPages.Razor.dll
+C:\Users\nihat.ozkurt\Desktop\GUNCEL PROGRAM\saglik_sen\saglik_sen\bin\WebGrease.dll
+C:\Users\nihat.ozkurt\Desktop\GUNCEL PROGRAM\saglik_sen\saglik_sen\bin\EntityFramework.xml
+C:\Users\nihat.ozkurt\Desktop\GUNCEL PROGRAM\saglik_sen\saglik_sen\bin\EntityFramework.SqlServer.xml
+C:\Users\nihat.ozkurt\Desktop\GUNCEL PROGRAM\saglik_sen\saglik_sen\bin\System.Web.Helpers.xml
+C:\Users\nihat.ozkurt\Desktop\GUNCEL PROGRAM\saglik_sen\saglik_sen\bin\System.Web.Mvc.xml
+C:\Users\nihat.ozkurt\Desktop\GUNCEL PROGRAM\saglik_sen\saglik_sen\bin\System.Web.Optimization.xml
+C:\Users\nihat.ozkurt\Desktop\GUNCEL PROGRAM\saglik_sen\saglik_sen\bin\System.Web.Razor.xml
+C:\Users\nihat.ozkurt\Desktop\GUNCEL PROGRAM\saglik_sen\saglik_sen\bin\System.Web.WebPages.xml
+C:\Users\nihat.ozkurt\Desktop\GUNCEL PROGRAM\saglik_sen\saglik_sen\bin\System.Web.WebPages.Deployment.xml
+C:\Users\nihat.ozkurt\Desktop\GUNCEL PROGRAM\saglik_sen\saglik_sen\bin\System.Web.WebPages.Razor.xml
+C:\Users\nihat.ozkurt\Desktop\GUNCEL PROGRAM\saglik_sen\saglik_sen\bin\Newtonsoft.Json.xml
+C:\Users\nihat.ozkurt\Desktop\GUNCEL PROGRAM\saglik_sen\saglik_sen\bin\Antlr3.Runtime.pdb
+C:\Users\nihat.ozkurt\Desktop\GUNCEL PROGRAM\saglik_sen\saglik_sen\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\nihat.ozkurt\Desktop\GUNCEL PROGRAM\saglik_sen\saglik_sen\bin\tr\System.Web.Helpers.resources.dll
+C:\Users\nihat.ozkurt\Desktop\GUNCEL PROGRAM\saglik_sen\saglik_sen\bin\tr\System.Web.Mvc.resources.dll
+C:\Users\nihat.ozkurt\Desktop\GUNCEL PROGRAM\saglik_sen\saglik_sen\bin\tr\System.Web.Optimization.resources.dll
+C:\Users\nihat.ozkurt\Desktop\GUNCEL PROGRAM\saglik_sen\saglik_sen\bin\tr\System.Web.Razor.resources.dll
+C:\Users\nihat.ozkurt\Desktop\GUNCEL PROGRAM\saglik_sen\saglik_sen\bin\tr\System.Web.WebPages.resources.dll
+C:\Users\nihat.ozkurt\Desktop\GUNCEL PROGRAM\saglik_sen\saglik_sen\bin\tr\System.Web.WebPages.Deployment.resources.dll
+C:\Users\nihat.ozkurt\Desktop\GUNCEL PROGRAM\saglik_sen\saglik_sen\bin\tr\System.Web.WebPages.Razor.resources.dll
+C:\Users\nihat.ozkurt\Desktop\GUNCEL PROGRAM\saglik_sen\saglik_sen\obj\Debug\saglik_sen.csproj.CoreCompileInputs.cache
+C:\Users\nihat.ozkurt\Desktop\GUNCEL PROGRAM\saglik_sen\saglik_sen\obj\Debug\saglik_sen.csproj.CopyComplete
+C:\Users\nihat.ozkurt\Desktop\GUNCEL PROGRAM\saglik_sen\saglik_sen\obj\Debug\saglik_sen.dll
+C:\Users\nihat.ozkurt\Desktop\GUNCEL PROGRAM\saglik_sen\saglik_sen\obj\Debug\saglik_sen.pdb
+C:\Users\nihat.ozkurt\Desktop\GUNCEL PROGRAM\saglik_sen\saglik_sen\bin\PagedList.dll
+C:\Users\nihat.ozkurt\Desktop\GUNCEL PROGRAM\saglik_sen\saglik_sen\bin\PagedList.xml
+C:\Users\nihat.ozkurt\Desktop\GUNCEL PROGRAM\saglik_sen\saglik_sen\bin\Common.Logging.Core.dll
+C:\Users\nihat.ozkurt\Desktop\GUNCEL PROGRAM\saglik_sen\saglik_sen\bin\Common.Logging.dll
+C:\Users\nihat.ozkurt\Desktop\GUNCEL PROGRAM\saglik_sen\saglik_sen\bin\DevExpress.Data.v18.1.dll
+C:\Users\nihat.ozkurt\Desktop\GUNCEL PROGRAM\saglik_sen\saglik_sen\bin\DevExpress.Xpo.v18.1.dll
+C:\Users\nihat.ozkurt\Desktop\GUNCEL PROGRAM\saglik_sen\saglik_sen\bin\Quartz.dll
+C:\Users\nihat.ozkurt\Desktop\GUNCEL PROGRAM\saglik_sen\saglik_sen\bin\Common.Logging.pdb
+C:\Users\nihat.ozkurt\Desktop\GUNCEL PROGRAM\saglik_sen\saglik_sen\bin\Common.Logging.xml
+C:\Users\nihat.ozkurt\Desktop\GUNCEL PROGRAM\saglik_sen\saglik_sen\bin\Common.Logging.Core.pdb
+C:\Users\nihat.ozkurt\Desktop\GUNCEL PROGRAM\saglik_sen\saglik_sen\bin\Common.Logging.Core.xml
+C:\Users\nihat.ozkurt\Desktop\GUNCEL PROGRAM\saglik_sen\saglik_sen\bin\DevExpress.Data.v18.1.xml
+C:\Users\nihat.ozkurt\Desktop\GUNCEL PROGRAM\saglik_sen\saglik_sen\bin\DevExpress.Xpo.v18.1.xml
+C:\Users\nihat.ozkurt\Desktop\GUNCEL PROGRAM\saglik_sen\saglik_sen\bin\Quartz.pdb
+C:\Users\nihat.ozkurt\Desktop\GUNCEL PROGRAM\saglik_sen\saglik_sen\bin\Quartz.xml
+C:\Users\nihat.ozkurt\Desktop\GUNCEL PROGRAM\saglik_sen\saglik_sen\obj\Debug\saglik_sen.csproj.AssemblyReference.cache
+C:\Users\nihat\Desktop\GUNCEL PROGRAM\saglik_sen\saglik_sen\bin\saglik_sen.dll.config
+C:\Users\nihat\Desktop\GUNCEL PROGRAM\saglik_sen\saglik_sen\bin\saglik_sen.dll
+C:\Users\nihat\Desktop\GUNCEL PROGRAM\saglik_sen\saglik_sen\bin\saglik_sen.pdb
+C:\Users\nihat\Desktop\GUNCEL PROGRAM\saglik_sen\saglik_sen\bin\roslyn\csc.exe
+C:\Users\nihat\Desktop\GUNCEL PROGRAM\saglik_sen\saglik_sen\bin\roslyn\csc.exe.config
+C:\Users\nihat\Desktop\GUNCEL PROGRAM\saglik_sen\saglik_sen\bin\roslyn\csc.rsp
+C:\Users\nihat\Desktop\GUNCEL PROGRAM\saglik_sen\saglik_sen\bin\roslyn\csi.exe
+C:\Users\nihat\Desktop\GUNCEL PROGRAM\saglik_sen\saglik_sen\bin\roslyn\csi.rsp
+C:\Users\nihat\Desktop\GUNCEL PROGRAM\saglik_sen\saglik_sen\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\nihat\Desktop\GUNCEL PROGRAM\saglik_sen\saglik_sen\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\nihat\Desktop\GUNCEL PROGRAM\saglik_sen\saglik_sen\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\nihat\Desktop\GUNCEL PROGRAM\saglik_sen\saglik_sen\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\nihat\Desktop\GUNCEL PROGRAM\saglik_sen\saglik_sen\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\nihat\Desktop\GUNCEL PROGRAM\saglik_sen\saglik_sen\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\nihat\Desktop\GUNCEL PROGRAM\saglik_sen\saglik_sen\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\nihat\Desktop\GUNCEL PROGRAM\saglik_sen\saglik_sen\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\nihat\Desktop\GUNCEL PROGRAM\saglik_sen\saglik_sen\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\nihat\Desktop\GUNCEL PROGRAM\saglik_sen\saglik_sen\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\nihat\Desktop\GUNCEL PROGRAM\saglik_sen\saglik_sen\bin\roslyn\System.AppContext.dll
+C:\Users\nihat\Desktop\GUNCEL PROGRAM\saglik_sen\saglik_sen\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\nihat\Desktop\GUNCEL PROGRAM\saglik_sen\saglik_sen\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\nihat\Desktop\GUNCEL PROGRAM\saglik_sen\saglik_sen\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\nihat\Desktop\GUNCEL PROGRAM\saglik_sen\saglik_sen\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\nihat\Desktop\GUNCEL PROGRAM\saglik_sen\saglik_sen\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\nihat\Desktop\GUNCEL PROGRAM\saglik_sen\saglik_sen\bin\roslyn\vbc.exe
+C:\Users\nihat\Desktop\GUNCEL PROGRAM\saglik_sen\saglik_sen\bin\roslyn\vbc.exe.config
+C:\Users\nihat\Desktop\GUNCEL PROGRAM\saglik_sen\saglik_sen\bin\roslyn\vbc.rsp
+C:\Users\nihat\Desktop\GUNCEL PROGRAM\saglik_sen\saglik_sen\bin\roslyn\VBCSCompiler.exe
+C:\Users\nihat\Desktop\GUNCEL PROGRAM\saglik_sen\saglik_sen\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\nihat\Desktop\GUNCEL PROGRAM\saglik_sen\saglik_sen\bin\Antlr3.Runtime.dll
+C:\Users\nihat\Desktop\GUNCEL PROGRAM\saglik_sen\saglik_sen\bin\Common.Logging.Core.dll
+C:\Users\nihat\Desktop\GUNCEL PROGRAM\saglik_sen\saglik_sen\bin\Common.Logging.dll
+C:\Users\nihat\Desktop\GUNCEL PROGRAM\saglik_sen\saglik_sen\bin\DevExpress.Data.v18.1.dll
+C:\Users\nihat\Desktop\GUNCEL PROGRAM\saglik_sen\saglik_sen\bin\DevExpress.Xpo.v18.1.dll
+C:\Users\nihat\Desktop\GUNCEL PROGRAM\saglik_sen\saglik_sen\bin\EntityFramework.dll
+C:\Users\nihat\Desktop\GUNCEL PROGRAM\saglik_sen\saglik_sen\bin\EntityFramework.SqlServer.dll
+C:\Users\nihat\Desktop\GUNCEL PROGRAM\saglik_sen\saglik_sen\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\nihat\Desktop\GUNCEL PROGRAM\saglik_sen\saglik_sen\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\nihat\Desktop\GUNCEL PROGRAM\saglik_sen\saglik_sen\bin\Newtonsoft.Json.dll
+C:\Users\nihat\Desktop\GUNCEL PROGRAM\saglik_sen\saglik_sen\bin\PagedList.dll
+C:\Users\nihat\Desktop\GUNCEL PROGRAM\saglik_sen\saglik_sen\bin\Quartz.dll
+C:\Users\nihat\Desktop\GUNCEL PROGRAM\saglik_sen\saglik_sen\bin\System.Web.Helpers.dll
+C:\Users\nihat\Desktop\GUNCEL PROGRAM\saglik_sen\saglik_sen\bin\System.Web.Mvc.dll
+C:\Users\nihat\Desktop\GUNCEL PROGRAM\saglik_sen\saglik_sen\bin\System.Web.Optimization.dll
+C:\Users\nihat\Desktop\GUNCEL PROGRAM\saglik_sen\saglik_sen\bin\System.Web.Razor.dll
+C:\Users\nihat\Desktop\GUNCEL PROGRAM\saglik_sen\saglik_sen\bin\System.Web.WebPages.Deployment.dll
+C:\Users\nihat\Desktop\GUNCEL PROGRAM\saglik_sen\saglik_sen\bin\System.Web.WebPages.dll
+C:\Users\nihat\Desktop\GUNCEL PROGRAM\saglik_sen\saglik_sen\bin\System.Web.WebPages.Razor.dll
+C:\Users\nihat\Desktop\GUNCEL PROGRAM\saglik_sen\saglik_sen\bin\WebGrease.dll
+C:\Users\nihat\Desktop\GUNCEL PROGRAM\saglik_sen\saglik_sen\bin\Common.Logging.pdb
+C:\Users\nihat\Desktop\GUNCEL PROGRAM\saglik_sen\saglik_sen\bin\Common.Logging.xml
+C:\Users\nihat\Desktop\GUNCEL PROGRAM\saglik_sen\saglik_sen\bin\Common.Logging.Core.pdb
+C:\Users\nihat\Desktop\GUNCEL PROGRAM\saglik_sen\saglik_sen\bin\Common.Logging.Core.xml
+C:\Users\nihat\Desktop\GUNCEL PROGRAM\saglik_sen\saglik_sen\bin\DevExpress.Data.v18.1.xml
+C:\Users\nihat\Desktop\GUNCEL PROGRAM\saglik_sen\saglik_sen\bin\DevExpress.Xpo.v18.1.xml
+C:\Users\nihat\Desktop\GUNCEL PROGRAM\saglik_sen\saglik_sen\bin\EntityFramework.xml
+C:\Users\nihat\Desktop\GUNCEL PROGRAM\saglik_sen\saglik_sen\bin\EntityFramework.SqlServer.xml
+C:\Users\nihat\Desktop\GUNCEL PROGRAM\saglik_sen\saglik_sen\bin\PagedList.xml
+C:\Users\nihat\Desktop\GUNCEL PROGRAM\saglik_sen\saglik_sen\bin\Quartz.pdb
+C:\Users\nihat\Desktop\GUNCEL PROGRAM\saglik_sen\saglik_sen\bin\Quartz.xml
+C:\Users\nihat\Desktop\GUNCEL PROGRAM\saglik_sen\saglik_sen\bin\System.Web.Helpers.xml
+C:\Users\nihat\Desktop\GUNCEL PROGRAM\saglik_sen\saglik_sen\bin\System.Web.Mvc.xml
+C:\Users\nihat\Desktop\GUNCEL PROGRAM\saglik_sen\saglik_sen\bin\System.Web.Optimization.xml
+C:\Users\nihat\Desktop\GUNCEL PROGRAM\saglik_sen\saglik_sen\bin\System.Web.Razor.xml
+C:\Users\nihat\Desktop\GUNCEL PROGRAM\saglik_sen\saglik_sen\bin\System.Web.WebPages.xml
+C:\Users\nihat\Desktop\GUNCEL PROGRAM\saglik_sen\saglik_sen\bin\System.Web.WebPages.Deployment.xml
+C:\Users\nihat\Desktop\GUNCEL PROGRAM\saglik_sen\saglik_sen\bin\System.Web.WebPages.Razor.xml
+C:\Users\nihat\Desktop\GUNCEL PROGRAM\saglik_sen\saglik_sen\bin\Newtonsoft.Json.xml
+C:\Users\nihat\Desktop\GUNCEL PROGRAM\saglik_sen\saglik_sen\bin\Antlr3.Runtime.pdb
+C:\Users\nihat\Desktop\GUNCEL PROGRAM\saglik_sen\saglik_sen\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\nihat\Desktop\GUNCEL PROGRAM\saglik_sen\saglik_sen\bin\tr\System.Web.Helpers.resources.dll
+C:\Users\nihat\Desktop\GUNCEL PROGRAM\saglik_sen\saglik_sen\bin\tr\System.Web.Mvc.resources.dll
+C:\Users\nihat\Desktop\GUNCEL PROGRAM\saglik_sen\saglik_sen\bin\tr\System.Web.Optimization.resources.dll
+C:\Users\nihat\Desktop\GUNCEL PROGRAM\saglik_sen\saglik_sen\bin\tr\System.Web.Razor.resources.dll
+C:\Users\nihat\Desktop\GUNCEL PROGRAM\saglik_sen\saglik_sen\bin\tr\System.Web.WebPages.resources.dll
+C:\Users\nihat\Desktop\GUNCEL PROGRAM\saglik_sen\saglik_sen\bin\tr\System.Web.WebPages.Deployment.resources.dll
+C:\Users\nihat\Desktop\GUNCEL PROGRAM\saglik_sen\saglik_sen\bin\tr\System.Web.WebPages.Razor.resources.dll
+C:\Users\nihat\Desktop\GUNCEL PROGRAM\saglik_sen\saglik_sen\obj\Debug\saglik_sen.csprojAssemblyReference.cache
+C:\Users\nihat\Desktop\GUNCEL PROGRAM\saglik_sen\saglik_sen\obj\Debug\saglik_sen.csproj.CopyComplete
+C:\Users\nihat\Desktop\GUNCEL PROGRAM\saglik_sen\saglik_sen\obj\Debug\saglik_sen.dll
+C:\Users\nihat\Desktop\GUNCEL PROGRAM\saglik_sen\saglik_sen\obj\Debug\saglik_sen.pdb
+C:\Users\nihat.ozkurt\Desktop\yeni\saglik_sen\saglik_sen\bin\saglik_sen.dll.config
+C:\Users\nihat.ozkurt\Desktop\yeni\saglik_sen\saglik_sen\bin\saglik_sen.dll
+C:\Users\nihat.ozkurt\Desktop\yeni\saglik_sen\saglik_sen\bin\saglik_sen.pdb
+C:\Users\nihat.ozkurt\Desktop\yeni\saglik_sen\saglik_sen\bin\roslyn\csc.exe
+C:\Users\nihat.ozkurt\Desktop\yeni\saglik_sen\saglik_sen\bin\roslyn\csc.exe.config
+C:\Users\nihat.ozkurt\Desktop\yeni\saglik_sen\saglik_sen\bin\roslyn\csc.rsp
+C:\Users\nihat.ozkurt\Desktop\yeni\saglik_sen\saglik_sen\bin\roslyn\csi.exe
+C:\Users\nihat.ozkurt\Desktop\yeni\saglik_sen\saglik_sen\bin\roslyn\csi.rsp
+C:\Users\nihat.ozkurt\Desktop\yeni\saglik_sen\saglik_sen\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\nihat.ozkurt\Desktop\yeni\saglik_sen\saglik_sen\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\nihat.ozkurt\Desktop\yeni\saglik_sen\saglik_sen\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\nihat.ozkurt\Desktop\yeni\saglik_sen\saglik_sen\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\nihat.ozkurt\Desktop\yeni\saglik_sen\saglik_sen\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\nihat.ozkurt\Desktop\yeni\saglik_sen\saglik_sen\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\nihat.ozkurt\Desktop\yeni\saglik_sen\saglik_sen\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\nihat.ozkurt\Desktop\yeni\saglik_sen\saglik_sen\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\nihat.ozkurt\Desktop\yeni\saglik_sen\saglik_sen\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\nihat.ozkurt\Desktop\yeni\saglik_sen\saglik_sen\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\nihat.ozkurt\Desktop\yeni\saglik_sen\saglik_sen\bin\roslyn\System.AppContext.dll
+C:\Users\nihat.ozkurt\Desktop\yeni\saglik_sen\saglik_sen\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\nihat.ozkurt\Desktop\yeni\saglik_sen\saglik_sen\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\nihat.ozkurt\Desktop\yeni\saglik_sen\saglik_sen\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\nihat.ozkurt\Desktop\yeni\saglik_sen\saglik_sen\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\nihat.ozkurt\Desktop\yeni\saglik_sen\saglik_sen\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\nihat.ozkurt\Desktop\yeni\saglik_sen\saglik_sen\bin\roslyn\vbc.exe
+C:\Users\nihat.ozkurt\Desktop\yeni\saglik_sen\saglik_sen\bin\roslyn\vbc.exe.config
+C:\Users\nihat.ozkurt\Desktop\yeni\saglik_sen\saglik_sen\bin\roslyn\vbc.rsp
+C:\Users\nihat.ozkurt\Desktop\yeni\saglik_sen\saglik_sen\bin\roslyn\VBCSCompiler.exe
+C:\Users\nihat.ozkurt\Desktop\yeni\saglik_sen\saglik_sen\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\nihat.ozkurt\Desktop\yeni\saglik_sen\saglik_sen\bin\Antlr3.Runtime.dll
+C:\Users\nihat.ozkurt\Desktop\yeni\saglik_sen\saglik_sen\bin\Common.Logging.Core.dll
+C:\Users\nihat.ozkurt\Desktop\yeni\saglik_sen\saglik_sen\bin\Common.Logging.dll
+C:\Users\nihat.ozkurt\Desktop\yeni\saglik_sen\saglik_sen\bin\DevExpress.Data.v18.1.dll
+C:\Users\nihat.ozkurt\Desktop\yeni\saglik_sen\saglik_sen\bin\DevExpress.Xpo.v18.1.dll
+C:\Users\nihat.ozkurt\Desktop\yeni\saglik_sen\saglik_sen\bin\EntityFramework.dll
+C:\Users\nihat.ozkurt\Desktop\yeni\saglik_sen\saglik_sen\bin\EntityFramework.SqlServer.dll
+C:\Users\nihat.ozkurt\Desktop\yeni\saglik_sen\saglik_sen\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\nihat.ozkurt\Desktop\yeni\saglik_sen\saglik_sen\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\nihat.ozkurt\Desktop\yeni\saglik_sen\saglik_sen\bin\Newtonsoft.Json.dll
+C:\Users\nihat.ozkurt\Desktop\yeni\saglik_sen\saglik_sen\bin\PagedList.dll
+C:\Users\nihat.ozkurt\Desktop\yeni\saglik_sen\saglik_sen\bin\Quartz.dll
+C:\Users\nihat.ozkurt\Desktop\yeni\saglik_sen\saglik_sen\bin\System.Web.Helpers.dll
+C:\Users\nihat.ozkurt\Desktop\yeni\saglik_sen\saglik_sen\bin\System.Web.Mvc.dll
+C:\Users\nihat.ozkurt\Desktop\yeni\saglik_sen\saglik_sen\bin\System.Web.Optimization.dll
+C:\Users\nihat.ozkurt\Desktop\yeni\saglik_sen\saglik_sen\bin\System.Web.Razor.dll
+C:\Users\nihat.ozkurt\Desktop\yeni\saglik_sen\saglik_sen\bin\System.Web.WebPages.Deployment.dll
+C:\Users\nihat.ozkurt\Desktop\yeni\saglik_sen\saglik_sen\bin\System.Web.WebPages.dll
+C:\Users\nihat.ozkurt\Desktop\yeni\saglik_sen\saglik_sen\bin\System.Web.WebPages.Razor.dll
+C:\Users\nihat.ozkurt\Desktop\yeni\saglik_sen\saglik_sen\bin\WebGrease.dll
+C:\Users\nihat.ozkurt\Desktop\yeni\saglik_sen\saglik_sen\bin\Common.Logging.pdb
+C:\Users\nihat.ozkurt\Desktop\yeni\saglik_sen\saglik_sen\bin\Common.Logging.xml
+C:\Users\nihat.ozkurt\Desktop\yeni\saglik_sen\saglik_sen\bin\Common.Logging.Core.pdb
+C:\Users\nihat.ozkurt\Desktop\yeni\saglik_sen\saglik_sen\bin\Common.Logging.Core.xml
+C:\Users\nihat.ozkurt\Desktop\yeni\saglik_sen\saglik_sen\bin\DevExpress.Data.v18.1.xml
+C:\Users\nihat.ozkurt\Desktop\yeni\saglik_sen\saglik_sen\bin\DevExpress.Xpo.v18.1.xml
+C:\Users\nihat.ozkurt\Desktop\yeni\saglik_sen\saglik_sen\bin\EntityFramework.xml
+C:\Users\nihat.ozkurt\Desktop\yeni\saglik_sen\saglik_sen\bin\EntityFramework.SqlServer.xml
+C:\Users\nihat.ozkurt\Desktop\yeni\saglik_sen\saglik_sen\bin\PagedList.xml
+C:\Users\nihat.ozkurt\Desktop\yeni\saglik_sen\saglik_sen\bin\Quartz.pdb
+C:\Users\nihat.ozkurt\Desktop\yeni\saglik_sen\saglik_sen\bin\Quartz.xml
+C:\Users\nihat.ozkurt\Desktop\yeni\saglik_sen\saglik_sen\bin\System.Web.Helpers.xml
+C:\Users\nihat.ozkurt\Desktop\yeni\saglik_sen\saglik_sen\bin\System.Web.Mvc.xml
+C:\Users\nihat.ozkurt\Desktop\yeni\saglik_sen\saglik_sen\bin\System.Web.Optimization.xml
+C:\Users\nihat.ozkurt\Desktop\yeni\saglik_sen\saglik_sen\bin\System.Web.Razor.xml
+C:\Users\nihat.ozkurt\Desktop\yeni\saglik_sen\saglik_sen\bin\System.Web.WebPages.xml
+C:\Users\nihat.ozkurt\Desktop\yeni\saglik_sen\saglik_sen\bin\System.Web.WebPages.Deployment.xml
+C:\Users\nihat.ozkurt\Desktop\yeni\saglik_sen\saglik_sen\bin\System.Web.WebPages.Razor.xml
+C:\Users\nihat.ozkurt\Desktop\yeni\saglik_sen\saglik_sen\bin\Newtonsoft.Json.xml
+C:\Users\nihat.ozkurt\Desktop\yeni\saglik_sen\saglik_sen\bin\Antlr3.Runtime.pdb
+C:\Users\nihat.ozkurt\Desktop\yeni\saglik_sen\saglik_sen\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\nihat.ozkurt\Desktop\yeni\saglik_sen\saglik_sen\bin\tr\System.Web.Helpers.resources.dll
+C:\Users\nihat.ozkurt\Desktop\yeni\saglik_sen\saglik_sen\bin\tr\System.Web.Mvc.resources.dll
+C:\Users\nihat.ozkurt\Desktop\yeni\saglik_sen\saglik_sen\bin\tr\System.Web.Optimization.resources.dll
+C:\Users\nihat.ozkurt\Desktop\yeni\saglik_sen\saglik_sen\bin\tr\System.Web.Razor.resources.dll
+C:\Users\nihat.ozkurt\Desktop\yeni\saglik_sen\saglik_sen\bin\tr\System.Web.WebPages.resources.dll
+C:\Users\nihat.ozkurt\Desktop\yeni\saglik_sen\saglik_sen\bin\tr\System.Web.WebPages.Deployment.resources.dll
+C:\Users\nihat.ozkurt\Desktop\yeni\saglik_sen\saglik_sen\bin\tr\System.Web.WebPages.Razor.resources.dll
+C:\Users\nihat.ozkurt\Desktop\yeni\saglik_sen\saglik_sen\obj\Debug\saglik_sen.csproj.AssemblyReference.cache
+C:\Users\nihat.ozkurt\Desktop\yeni\saglik_sen\saglik_sen\obj\Debug\saglik_sen.csproj.CoreCompileInputs.cache
+C:\Users\nihat.ozkurt\Desktop\yeni\saglik_sen\saglik_sen\obj\Debug\saglik_sen.csproj.CopyComplete
+C:\Users\nihat.ozkurt\Desktop\yeni\saglik_sen\saglik_sen\obj\Debug\saglik_sen.dll
+C:\Users\nihat.ozkurt\Desktop\yeni\saglik_sen\saglik_sen\obj\Debug\saglik_sen.pdb
+\\10.211.224.74\it-03\MY DESK\VİSUAL STUDİO\SAĞLIK SEN ÜYE KONTROL VE SMS OTOMASYONU\yeni\saglik_sen\saglik_sen\bin\saglik_sen.dll.config
+\\10.211.224.74\it-03\MY DESK\VİSUAL STUDİO\SAĞLIK SEN ÜYE KONTROL VE SMS OTOMASYONU\yeni\saglik_sen\saglik_sen\bin\saglik_sen.dll
+\\10.211.224.74\it-03\MY DESK\VİSUAL STUDİO\SAĞLIK SEN ÜYE KONTROL VE SMS OTOMASYONU\yeni\saglik_sen\saglik_sen\bin\saglik_sen.pdb
+\\10.211.224.74\it-03\MY DESK\VİSUAL STUDİO\SAĞLIK SEN ÜYE KONTROL VE SMS OTOMASYONU\yeni\saglik_sen\saglik_sen\bin\roslyn\csc.exe
+\\10.211.224.74\it-03\MY DESK\VİSUAL STUDİO\SAĞLIK SEN ÜYE KONTROL VE SMS OTOMASYONU\yeni\saglik_sen\saglik_sen\bin\roslyn\csc.exe.config
+\\10.211.224.74\it-03\MY DESK\VİSUAL STUDİO\SAĞLIK SEN ÜYE KONTROL VE SMS OTOMASYONU\yeni\saglik_sen\saglik_sen\bin\roslyn\csc.rsp
+\\10.211.224.74\it-03\MY DESK\VİSUAL STUDİO\SAĞLIK SEN ÜYE KONTROL VE SMS OTOMASYONU\yeni\saglik_sen\saglik_sen\bin\roslyn\csi.exe
+\\10.211.224.74\it-03\MY DESK\VİSUAL STUDİO\SAĞLIK SEN ÜYE KONTROL VE SMS OTOMASYONU\yeni\saglik_sen\saglik_sen\bin\roslyn\csi.rsp
+\\10.211.224.74\it-03\MY DESK\VİSUAL STUDİO\SAĞLIK SEN ÜYE KONTROL VE SMS OTOMASYONU\yeni\saglik_sen\saglik_sen\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+\\10.211.224.74\it-03\MY DESK\VİSUAL STUDİO\SAĞLIK SEN ÜYE KONTROL VE SMS OTOMASYONU\yeni\saglik_sen\saglik_sen\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+\\10.211.224.74\it-03\MY DESK\VİSUAL STUDİO\SAĞLIK SEN ÜYE KONTROL VE SMS OTOMASYONU\yeni\saglik_sen\saglik_sen\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+\\10.211.224.74\it-03\MY DESK\VİSUAL STUDİO\SAĞLIK SEN ÜYE KONTROL VE SMS OTOMASYONU\yeni\saglik_sen\saglik_sen\bin\roslyn\Microsoft.CodeAnalysis.dll
+\\10.211.224.74\it-03\MY DESK\VİSUAL STUDİO\SAĞLIK SEN ÜYE KONTROL VE SMS OTOMASYONU\yeni\saglik_sen\saglik_sen\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+\\10.211.224.74\it-03\MY DESK\VİSUAL STUDİO\SAĞLIK SEN ÜYE KONTROL VE SMS OTOMASYONU\yeni\saglik_sen\saglik_sen\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+\\10.211.224.74\it-03\MY DESK\VİSUAL STUDİO\SAĞLIK SEN ÜYE KONTROL VE SMS OTOMASYONU\yeni\saglik_sen\saglik_sen\bin\roslyn\Microsoft.CSharp.Core.targets
+\\10.211.224.74\it-03\MY DESK\VİSUAL STUDİO\SAĞLIK SEN ÜYE KONTROL VE SMS OTOMASYONU\yeni\saglik_sen\saglik_sen\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+\\10.211.224.74\it-03\MY DESK\VİSUAL STUDİO\SAĞLIK SEN ÜYE KONTROL VE SMS OTOMASYONU\yeni\saglik_sen\saglik_sen\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+\\10.211.224.74\it-03\MY DESK\VİSUAL STUDİO\SAĞLIK SEN ÜYE KONTROL VE SMS OTOMASYONU\yeni\saglik_sen\saglik_sen\bin\roslyn\Microsoft.VisualBasic.Core.targets
+\\10.211.224.74\it-03\MY DESK\VİSUAL STUDİO\SAĞLIK SEN ÜYE KONTROL VE SMS OTOMASYONU\yeni\saglik_sen\saglik_sen\bin\roslyn\System.AppContext.dll
+\\10.211.224.74\it-03\MY DESK\VİSUAL STUDİO\SAĞLIK SEN ÜYE KONTROL VE SMS OTOMASYONU\yeni\saglik_sen\saglik_sen\bin\roslyn\System.Collections.Immutable.dll
+\\10.211.224.74\it-03\MY DESK\VİSUAL STUDİO\SAĞLIK SEN ÜYE KONTROL VE SMS OTOMASYONU\yeni\saglik_sen\saglik_sen\bin\roslyn\System.Diagnostics.StackTrace.dll
+\\10.211.224.74\it-03\MY DESK\VİSUAL STUDİO\SAĞLIK SEN ÜYE KONTROL VE SMS OTOMASYONU\yeni\saglik_sen\saglik_sen\bin\roslyn\System.IO.FileSystem.dll
+\\10.211.224.74\it-03\MY DESK\VİSUAL STUDİO\SAĞLIK SEN ÜYE KONTROL VE SMS OTOMASYONU\yeni\saglik_sen\saglik_sen\bin\roslyn\System.IO.FileSystem.Primitives.dll
+\\10.211.224.74\it-03\MY DESK\VİSUAL STUDİO\SAĞLIK SEN ÜYE KONTROL VE SMS OTOMASYONU\yeni\saglik_sen\saglik_sen\bin\roslyn\System.Reflection.Metadata.dll
+\\10.211.224.74\it-03\MY DESK\VİSUAL STUDİO\SAĞLIK SEN ÜYE KONTROL VE SMS OTOMASYONU\yeni\saglik_sen\saglik_sen\bin\roslyn\vbc.exe
+\\10.211.224.74\it-03\MY DESK\VİSUAL STUDİO\SAĞLIK SEN ÜYE KONTROL VE SMS OTOMASYONU\yeni\saglik_sen\saglik_sen\bin\roslyn\vbc.exe.config
+\\10.211.224.74\it-03\MY DESK\VİSUAL STUDİO\SAĞLIK SEN ÜYE KONTROL VE SMS OTOMASYONU\yeni\saglik_sen\saglik_sen\bin\roslyn\vbc.rsp
+\\10.211.224.74\it-03\MY DESK\VİSUAL STUDİO\SAĞLIK SEN ÜYE KONTROL VE SMS OTOMASYONU\yeni\saglik_sen\saglik_sen\bin\roslyn\VBCSCompiler.exe
+\\10.211.224.74\it-03\MY DESK\VİSUAL STUDİO\SAĞLIK SEN ÜYE KONTROL VE SMS OTOMASYONU\yeni\saglik_sen\saglik_sen\bin\roslyn\VBCSCompiler.exe.config
+\\10.211.224.74\it-03\MY DESK\VİSUAL STUDİO\SAĞLIK SEN ÜYE KONTROL VE SMS OTOMASYONU\yeni\saglik_sen\saglik_sen\bin\Antlr3.Runtime.dll
+\\10.211.224.74\it-03\MY DESK\VİSUAL STUDİO\SAĞLIK SEN ÜYE KONTROL VE SMS OTOMASYONU\yeni\saglik_sen\saglik_sen\bin\Common.Logging.Core.dll
+\\10.211.224.74\it-03\MY DESK\VİSUAL STUDİO\SAĞLIK SEN ÜYE KONTROL VE SMS OTOMASYONU\yeni\saglik_sen\saglik_sen\bin\Common.Logging.dll
+\\10.211.224.74\it-03\MY DESK\VİSUAL STUDİO\SAĞLIK SEN ÜYE KONTROL VE SMS OTOMASYONU\yeni\saglik_sen\saglik_sen\bin\DevExpress.Data.v18.1.dll
+\\10.211.224.74\it-03\MY DESK\VİSUAL STUDİO\SAĞLIK SEN ÜYE KONTROL VE SMS OTOMASYONU\yeni\saglik_sen\saglik_sen\bin\DevExpress.Xpo.v18.1.dll
+\\10.211.224.74\it-03\MY DESK\VİSUAL STUDİO\SAĞLIK SEN ÜYE KONTROL VE SMS OTOMASYONU\yeni\saglik_sen\saglik_sen\bin\EntityFramework.dll
+\\10.211.224.74\it-03\MY DESK\VİSUAL STUDİO\SAĞLIK SEN ÜYE KONTROL VE SMS OTOMASYONU\yeni\saglik_sen\saglik_sen\bin\EntityFramework.SqlServer.dll
+\\10.211.224.74\it-03\MY DESK\VİSUAL STUDİO\SAĞLIK SEN ÜYE KONTROL VE SMS OTOMASYONU\yeni\saglik_sen\saglik_sen\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+\\10.211.224.74\it-03\MY DESK\VİSUAL STUDİO\SAĞLIK SEN ÜYE KONTROL VE SMS OTOMASYONU\yeni\saglik_sen\saglik_sen\bin\Microsoft.Web.Infrastructure.dll
+\\10.211.224.74\it-03\MY DESK\VİSUAL STUDİO\SAĞLIK SEN ÜYE KONTROL VE SMS OTOMASYONU\yeni\saglik_sen\saglik_sen\bin\Newtonsoft.Json.dll
+\\10.211.224.74\it-03\MY DESK\VİSUAL STUDİO\SAĞLIK SEN ÜYE KONTROL VE SMS OTOMASYONU\yeni\saglik_sen\saglik_sen\bin\PagedList.dll
+\\10.211.224.74\it-03\MY DESK\VİSUAL STUDİO\SAĞLIK SEN ÜYE KONTROL VE SMS OTOMASYONU\yeni\saglik_sen\saglik_sen\bin\Quartz.dll
+\\10.211.224.74\it-03\MY DESK\VİSUAL STUDİO\SAĞLIK SEN ÜYE KONTROL VE SMS OTOMASYONU\yeni\saglik_sen\saglik_sen\bin\System.Web.Helpers.dll
+\\10.211.224.74\it-03\MY DESK\VİSUAL STUDİO\SAĞLIK SEN ÜYE KONTROL VE SMS OTOMASYONU\yeni\saglik_sen\saglik_sen\bin\System.Web.Mvc.dll
+\\10.211.224.74\it-03\MY DESK\VİSUAL STUDİO\SAĞLIK SEN ÜYE KONTROL VE SMS OTOMASYONU\yeni\saglik_sen\saglik_sen\bin\System.Web.Optimization.dll
+\\10.211.224.74\it-03\MY DESK\VİSUAL STUDİO\SAĞLIK SEN ÜYE KONTROL VE SMS OTOMASYONU\yeni\saglik_sen\saglik_sen\bin\System.Web.Razor.dll
+\\10.211.224.74\it-03\MY DESK\VİSUAL STUDİO\SAĞLIK SEN ÜYE KONTROL VE SMS OTOMASYONU\yeni\saglik_sen\saglik_sen\bin\System.Web.WebPages.Deployment.dll
+\\10.211.224.74\it-03\MY DESK\VİSUAL STUDİO\SAĞLIK SEN ÜYE KONTROL VE SMS OTOMASYONU\yeni\saglik_sen\saglik_sen\bin\System.Web.WebPages.dll
+\\10.211.224.74\it-03\MY DESK\VİSUAL STUDİO\SAĞLIK SEN ÜYE KONTROL VE SMS OTOMASYONU\yeni\saglik_sen\saglik_sen\bin\System.Web.WebPages.Razor.dll
+\\10.211.224.74\it-03\MY DESK\VİSUAL STUDİO\SAĞLIK SEN ÜYE KONTROL VE SMS OTOMASYONU\yeni\saglik_sen\saglik_sen\bin\WebGrease.dll
+\\10.211.224.74\it-03\MY DESK\VİSUAL STUDİO\SAĞLIK SEN ÜYE KONTROL VE SMS OTOMASYONU\yeni\saglik_sen\saglik_sen\bin\Common.Logging.pdb
+\\10.211.224.74\it-03\MY DESK\VİSUAL STUDİO\SAĞLIK SEN ÜYE KONTROL VE SMS OTOMASYONU\yeni\saglik_sen\saglik_sen\bin\Common.Logging.xml
+\\10.211.224.74\it-03\MY DESK\VİSUAL STUDİO\SAĞLIK SEN ÜYE KONTROL VE SMS OTOMASYONU\yeni\saglik_sen\saglik_sen\bin\Common.Logging.Core.pdb
+\\10.211.224.74\it-03\MY DESK\VİSUAL STUDİO\SAĞLIK SEN ÜYE KONTROL VE SMS OTOMASYONU\yeni\saglik_sen\saglik_sen\bin\Common.Logging.Core.xml
+\\10.211.224.74\it-03\MY DESK\VİSUAL STUDİO\SAĞLIK SEN ÜYE KONTROL VE SMS OTOMASYONU\yeni\saglik_sen\saglik_sen\bin\DevExpress.Data.v18.1.xml
+\\10.211.224.74\it-03\MY DESK\VİSUAL STUDİO\SAĞLIK SEN ÜYE KONTROL VE SMS OTOMASYONU\yeni\saglik_sen\saglik_sen\bin\DevExpress.Xpo.v18.1.xml
+\\10.211.224.74\it-03\MY DESK\VİSUAL STUDİO\SAĞLIK SEN ÜYE KONTROL VE SMS OTOMASYONU\yeni\saglik_sen\saglik_sen\bin\EntityFramework.xml
+\\10.211.224.74\it-03\MY DESK\VİSUAL STUDİO\SAĞLIK SEN ÜYE KONTROL VE SMS OTOMASYONU\yeni\saglik_sen\saglik_sen\bin\EntityFramework.SqlServer.xml
+\\10.211.224.74\it-03\MY DESK\VİSUAL STUDİO\SAĞLIK SEN ÜYE KONTROL VE SMS OTOMASYONU\yeni\saglik_sen\saglik_sen\bin\PagedList.xml
+\\10.211.224.74\it-03\MY DESK\VİSUAL STUDİO\SAĞLIK SEN ÜYE KONTROL VE SMS OTOMASYONU\yeni\saglik_sen\saglik_sen\bin\Quartz.pdb
+\\10.211.224.74\it-03\MY DESK\VİSUAL STUDİO\SAĞLIK SEN ÜYE KONTROL VE SMS OTOMASYONU\yeni\saglik_sen\saglik_sen\bin\Quartz.xml
+\\10.211.224.74\it-03\MY DESK\VİSUAL STUDİO\SAĞLIK SEN ÜYE KONTROL VE SMS OTOMASYONU\yeni\saglik_sen\saglik_sen\bin\System.Web.Helpers.xml
+\\10.211.224.74\it-03\MY DESK\VİSUAL STUDİO\SAĞLIK SEN ÜYE KONTROL VE SMS OTOMASYONU\yeni\saglik_sen\saglik_sen\bin\System.Web.Mvc.xml
+\\10.211.224.74\it-03\MY DESK\VİSUAL STUDİO\SAĞLIK SEN ÜYE KONTROL VE SMS OTOMASYONU\yeni\saglik_sen\saglik_sen\bin\System.Web.Optimization.xml
+\\10.211.224.74\it-03\MY DESK\VİSUAL STUDİO\SAĞLIK SEN ÜYE KONTROL VE SMS OTOMASYONU\yeni\saglik_sen\saglik_sen\bin\System.Web.Razor.xml
+\\10.211.224.74\it-03\MY DESK\VİSUAL STUDİO\SAĞLIK SEN ÜYE KONTROL VE SMS OTOMASYONU\yeni\saglik_sen\saglik_sen\bin\System.Web.WebPages.xml
+\\10.211.224.74\it-03\MY DESK\VİSUAL STUDİO\SAĞLIK SEN ÜYE KONTROL VE SMS OTOMASYONU\yeni\saglik_sen\saglik_sen\bin\System.Web.WebPages.Deployment.xml
+\\10.211.224.74\it-03\MY DESK\VİSUAL STUDİO\SAĞLIK SEN ÜYE KONTROL VE SMS OTOMASYONU\yeni\saglik_sen\saglik_sen\bin\System.Web.WebPages.Razor.xml
+\\10.211.224.74\it-03\MY DESK\VİSUAL STUDİO\SAĞLIK SEN ÜYE KONTROL VE SMS OTOMASYONU\yeni\saglik_sen\saglik_sen\bin\Newtonsoft.Json.xml
+\\10.211.224.74\it-03\MY DESK\VİSUAL STUDİO\SAĞLIK SEN ÜYE KONTROL VE SMS OTOMASYONU\yeni\saglik_sen\saglik_sen\bin\Antlr3.Runtime.pdb
+\\10.211.224.74\it-03\MY DESK\VİSUAL STUDİO\SAĞLIK SEN ÜYE KONTROL VE SMS OTOMASYONU\yeni\saglik_sen\saglik_sen\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+\\10.211.224.74\it-03\MY DESK\VİSUAL STUDİO\SAĞLIK SEN ÜYE KONTROL VE SMS OTOMASYONU\yeni\saglik_sen\saglik_sen\bin\tr\System.Web.Helpers.resources.dll
+\\10.211.224.74\it-03\MY DESK\VİSUAL STUDİO\SAĞLIK SEN ÜYE KONTROL VE SMS OTOMASYONU\yeni\saglik_sen\saglik_sen\bin\tr\System.Web.Mvc.resources.dll
+\\10.211.224.74\it-03\MY DESK\VİSUAL STUDİO\SAĞLIK SEN ÜYE KONTROL VE SMS OTOMASYONU\yeni\saglik_sen\saglik_sen\bin\tr\System.Web.Optimization.resources.dll
+\\10.211.224.74\it-03\MY DESK\VİSUAL STUDİO\SAĞLIK SEN ÜYE KONTROL VE SMS OTOMASYONU\yeni\saglik_sen\saglik_sen\bin\tr\System.Web.Razor.resources.dll
+\\10.211.224.74\it-03\MY DESK\VİSUAL STUDİO\SAĞLIK SEN ÜYE KONTROL VE SMS OTOMASYONU\yeni\saglik_sen\saglik_sen\bin\tr\System.Web.WebPages.resources.dll
+\\10.211.224.74\it-03\MY DESK\VİSUAL STUDİO\SAĞLIK SEN ÜYE KONTROL VE SMS OTOMASYONU\yeni\saglik_sen\saglik_sen\bin\tr\System.Web.WebPages.Deployment.resources.dll
+\\10.211.224.74\it-03\MY DESK\VİSUAL STUDİO\SAĞLIK SEN ÜYE KONTROL VE SMS OTOMASYONU\yeni\saglik_sen\saglik_sen\bin\tr\System.Web.WebPages.Razor.resources.dll
+\\10.211.224.74\it-03\MY DESK\VİSUAL STUDİO\SAĞLIK SEN ÜYE KONTROL VE SMS OTOMASYONU\yeni\saglik_sen\saglik_sen\obj\Debug\saglik_sen.csproj.AssemblyReference.cache
+\\10.211.224.74\it-03\MY DESK\VİSUAL STUDİO\SAĞLIK SEN ÜYE KONTROL VE SMS OTOMASYONU\yeni\saglik_sen\saglik_sen\obj\Debug\saglik_sen.csproj.CoreCompileInputs.cache
+\\10.211.224.74\it-03\MY DESK\VİSUAL STUDİO\SAĞLIK SEN ÜYE KONTROL VE SMS OTOMASYONU\yeni\saglik_sen\saglik_sen\obj\Debug\saglik_sen.csproj.CopyComplete
+\\10.211.224.74\it-03\MY DESK\VİSUAL STUDİO\SAĞLIK SEN ÜYE KONTROL VE SMS OTOMASYONU\yeni\saglik_sen\saglik_sen\obj\Debug\saglik_sen.dll
+\\10.211.224.74\it-03\MY DESK\VİSUAL STUDİO\SAĞLIK SEN ÜYE KONTROL VE SMS OTOMASYONU\yeni\saglik_sen\saglik_sen\obj\Debug\saglik_sen.pdb
+\\FILE-SERVER\it-03\MY DESK\VİSUAL STUDİO\SAĞLIK SEN ÜYE KONTROL VE SMS OTOMASYONU\yeni\saglik_sen\saglik_sen\bin\saglik_sen.dll.config
+\\FILE-SERVER\it-03\MY DESK\VİSUAL STUDİO\SAĞLIK SEN ÜYE KONTROL VE SMS OTOMASYONU\yeni\saglik_sen\saglik_sen\bin\saglik_sen.dll
+\\FILE-SERVER\it-03\MY DESK\VİSUAL STUDİO\SAĞLIK SEN ÜYE KONTROL VE SMS OTOMASYONU\yeni\saglik_sen\saglik_sen\bin\saglik_sen.pdb
+\\FILE-SERVER\it-03\MY DESK\VİSUAL STUDİO\SAĞLIK SEN ÜYE KONTROL VE SMS OTOMASYONU\yeni\saglik_sen\saglik_sen\bin\roslyn\csc.exe
+\\FILE-SERVER\it-03\MY DESK\VİSUAL STUDİO\SAĞLIK SEN ÜYE KONTROL VE SMS OTOMASYONU\yeni\saglik_sen\saglik_sen\bin\roslyn\csc.exe.config
+\\FILE-SERVER\it-03\MY DESK\VİSUAL STUDİO\SAĞLIK SEN ÜYE KONTROL VE SMS OTOMASYONU\yeni\saglik_sen\saglik_sen\bin\roslyn\csc.rsp
+\\FILE-SERVER\it-03\MY DESK\VİSUAL STUDİO\SAĞLIK SEN ÜYE KONTROL VE SMS OTOMASYONU\yeni\saglik_sen\saglik_sen\bin\roslyn\csi.exe
+\\FILE-SERVER\it-03\MY DESK\VİSUAL STUDİO\SAĞLIK SEN ÜYE KONTROL VE SMS OTOMASYONU\yeni\saglik_sen\saglik_sen\bin\roslyn\csi.rsp
+\\FILE-SERVER\it-03\MY DESK\VİSUAL STUDİO\SAĞLIK SEN ÜYE KONTROL VE SMS OTOMASYONU\yeni\saglik_sen\saglik_sen\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+\\FILE-SERVER\it-03\MY DESK\VİSUAL STUDİO\SAĞLIK SEN ÜYE KONTROL VE SMS OTOMASYONU\yeni\saglik_sen\saglik_sen\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+\\FILE-SERVER\it-03\MY DESK\VİSUAL STUDİO\SAĞLIK SEN ÜYE KONTROL VE SMS OTOMASYONU\yeni\saglik_sen\saglik_sen\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+\\FILE-SERVER\it-03\MY DESK\VİSUAL STUDİO\SAĞLIK SEN ÜYE KONTROL VE SMS OTOMASYONU\yeni\saglik_sen\saglik_sen\bin\roslyn\Microsoft.CodeAnalysis.dll
+\\FILE-SERVER\it-03\MY DESK\VİSUAL STUDİO\SAĞLIK SEN ÜYE KONTROL VE SMS OTOMASYONU\yeni\saglik_sen\saglik_sen\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+\\FILE-SERVER\it-03\MY DESK\VİSUAL STUDİO\SAĞLIK SEN ÜYE KONTROL VE SMS OTOMASYONU\yeni\saglik_sen\saglik_sen\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+\\FILE-SERVER\it-03\MY DESK\VİSUAL STUDİO\SAĞLIK SEN ÜYE KONTROL VE SMS OTOMASYONU\yeni\saglik_sen\saglik_sen\bin\roslyn\Microsoft.CSharp.Core.targets
+\\FILE-SERVER\it-03\MY DESK\VİSUAL STUDİO\SAĞLIK SEN ÜYE KONTROL VE SMS OTOMASYONU\yeni\saglik_sen\saglik_sen\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+\\FILE-SERVER\it-03\MY DESK\VİSUAL STUDİO\SAĞLIK SEN ÜYE KONTROL VE SMS OTOMASYONU\yeni\saglik_sen\saglik_sen\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+\\FILE-SERVER\it-03\MY DESK\VİSUAL STUDİO\SAĞLIK SEN ÜYE KONTROL VE SMS OTOMASYONU\yeni\saglik_sen\saglik_sen\bin\roslyn\Microsoft.VisualBasic.Core.targets
+\\FILE-SERVER\it-03\MY DESK\VİSUAL STUDİO\SAĞLIK SEN ÜYE KONTROL VE SMS OTOMASYONU\yeni\saglik_sen\saglik_sen\bin\roslyn\System.AppContext.dll
+\\FILE-SERVER\it-03\MY DESK\VİSUAL STUDİO\SAĞLIK SEN ÜYE KONTROL VE SMS OTOMASYONU\yeni\saglik_sen\saglik_sen\bin\roslyn\System.Collections.Immutable.dll
+\\FILE-SERVER\it-03\MY DESK\VİSUAL STUDİO\SAĞLIK SEN ÜYE KONTROL VE SMS OTOMASYONU\yeni\saglik_sen\saglik_sen\bin\roslyn\System.Diagnostics.StackTrace.dll
+\\FILE-SERVER\it-03\MY DESK\VİSUAL STUDİO\SAĞLIK SEN ÜYE KONTROL VE SMS OTOMASYONU\yeni\saglik_sen\saglik_sen\bin\roslyn\System.IO.FileSystem.dll
+\\FILE-SERVER\it-03\MY DESK\VİSUAL STUDİO\SAĞLIK SEN ÜYE KONTROL VE SMS OTOMASYONU\yeni\saglik_sen\saglik_sen\bin\roslyn\System.IO.FileSystem.Primitives.dll
+\\FILE-SERVER\it-03\MY DESK\VİSUAL STUDİO\SAĞLIK SEN ÜYE KONTROL VE SMS OTOMASYONU\yeni\saglik_sen\saglik_sen\bin\roslyn\System.Reflection.Metadata.dll
+\\FILE-SERVER\it-03\MY DESK\VİSUAL STUDİO\SAĞLIK SEN ÜYE KONTROL VE SMS OTOMASYONU\yeni\saglik_sen\saglik_sen\bin\roslyn\vbc.exe
+\\FILE-SERVER\it-03\MY DESK\VİSUAL STUDİO\SAĞLIK SEN ÜYE KONTROL VE SMS OTOMASYONU\yeni\saglik_sen\saglik_sen\bin\roslyn\vbc.exe.config
+\\FILE-SERVER\it-03\MY DESK\VİSUAL STUDİO\SAĞLIK SEN ÜYE KONTROL VE SMS OTOMASYONU\yeni\saglik_sen\saglik_sen\bin\roslyn\vbc.rsp
+\\FILE-SERVER\it-03\MY DESK\VİSUAL STUDİO\SAĞLIK SEN ÜYE KONTROL VE SMS OTOMASYONU\yeni\saglik_sen\saglik_sen\bin\roslyn\VBCSCompiler.exe
+\\FILE-SERVER\it-03\MY DESK\VİSUAL STUDİO\SAĞLIK SEN ÜYE KONTROL VE SMS OTOMASYONU\yeni\saglik_sen\saglik_sen\bin\roslyn\VBCSCompiler.exe.config
+\\FILE-SERVER\it-03\MY DESK\VİSUAL STUDİO\SAĞLIK SEN ÜYE KONTROL VE SMS OTOMASYONU\yeni\saglik_sen\saglik_sen\bin\Antlr3.Runtime.dll
+\\FILE-SERVER\it-03\MY DESK\VİSUAL STUDİO\SAĞLIK SEN ÜYE KONTROL VE SMS OTOMASYONU\yeni\saglik_sen\saglik_sen\bin\Common.Logging.Core.dll
+\\FILE-SERVER\it-03\MY DESK\VİSUAL STUDİO\SAĞLIK SEN ÜYE KONTROL VE SMS OTOMASYONU\yeni\saglik_sen\saglik_sen\bin\Common.Logging.dll
+\\FILE-SERVER\it-03\MY DESK\VİSUAL STUDİO\SAĞLIK SEN ÜYE KONTROL VE SMS OTOMASYONU\yeni\saglik_sen\saglik_sen\bin\DevExpress.Data.v18.1.dll
+\\FILE-SERVER\it-03\MY DESK\VİSUAL STUDİO\SAĞLIK SEN ÜYE KONTROL VE SMS OTOMASYONU\yeni\saglik_sen\saglik_sen\bin\DevExpress.Xpo.v18.1.dll
+\\FILE-SERVER\it-03\MY DESK\VİSUAL STUDİO\SAĞLIK SEN ÜYE KONTROL VE SMS OTOMASYONU\yeni\saglik_sen\saglik_sen\bin\EntityFramework.dll
+\\FILE-SERVER\it-03\MY DESK\VİSUAL STUDİO\SAĞLIK SEN ÜYE KONTROL VE SMS OTOMASYONU\yeni\saglik_sen\saglik_sen\bin\EntityFramework.SqlServer.dll
+\\FILE-SERVER\it-03\MY DESK\VİSUAL STUDİO\SAĞLIK SEN ÜYE KONTROL VE SMS OTOMASYONU\yeni\saglik_sen\saglik_sen\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+\\FILE-SERVER\it-03\MY DESK\VİSUAL STUDİO\SAĞLIK SEN ÜYE KONTROL VE SMS OTOMASYONU\yeni\saglik_sen\saglik_sen\bin\Microsoft.Web.Infrastructure.dll
+\\FILE-SERVER\it-03\MY DESK\VİSUAL STUDİO\SAĞLIK SEN ÜYE KONTROL VE SMS OTOMASYONU\yeni\saglik_sen\saglik_sen\bin\Newtonsoft.Json.dll
+\\FILE-SERVER\it-03\MY DESK\VİSUAL STUDİO\SAĞLIK SEN ÜYE KONTROL VE SMS OTOMASYONU\yeni\saglik_sen\saglik_sen\bin\PagedList.dll
+\\FILE-SERVER\it-03\MY DESK\VİSUAL STUDİO\SAĞLIK SEN ÜYE KONTROL VE SMS OTOMASYONU\yeni\saglik_sen\saglik_sen\bin\Quartz.dll
+\\FILE-SERVER\it-03\MY DESK\VİSUAL STUDİO\SAĞLIK SEN ÜYE KONTROL VE SMS OTOMASYONU\yeni\saglik_sen\saglik_sen\bin\System.Web.Helpers.dll
+\\FILE-SERVER\it-03\MY DESK\VİSUAL STUDİO\SAĞLIK SEN ÜYE KONTROL VE SMS OTOMASYONU\yeni\saglik_sen\saglik_sen\bin\System.Web.Mvc.dll
+\\FILE-SERVER\it-03\MY DESK\VİSUAL STUDİO\SAĞLIK SEN ÜYE KONTROL VE SMS OTOMASYONU\yeni\saglik_sen\saglik_sen\bin\System.Web.Optimization.dll
+\\FILE-SERVER\it-03\MY DESK\VİSUAL STUDİO\SAĞLIK SEN ÜYE KONTROL VE SMS OTOMASYONU\yeni\saglik_sen\saglik_sen\bin\System.Web.Razor.dll
+\\FILE-SERVER\it-03\MY DESK\VİSUAL STUDİO\SAĞLIK SEN ÜYE KONTROL VE SMS OTOMASYONU\yeni\saglik_sen\saglik_sen\bin\System.Web.WebPages.Deployment.dll
+\\FILE-SERVER\it-03\MY DESK\VİSUAL STUDİO\SAĞLIK SEN ÜYE KONTROL VE SMS OTOMASYONU\yeni\saglik_sen\saglik_sen\bin\System.Web.WebPages.dll
+\\FILE-SERVER\it-03\MY DESK\VİSUAL STUDİO\SAĞLIK SEN ÜYE KONTROL VE SMS OTOMASYONU\yeni\saglik_sen\saglik_sen\bin\System.Web.WebPages.Razor.dll
+\\FILE-SERVER\it-03\MY DESK\VİSUAL STUDİO\SAĞLIK SEN ÜYE KONTROL VE SMS OTOMASYONU\yeni\saglik_sen\saglik_sen\bin\WebGrease.dll
+\\FILE-SERVER\it-03\MY DESK\VİSUAL STUDİO\SAĞLIK SEN ÜYE KONTROL VE SMS OTOMASYONU\yeni\saglik_sen\saglik_sen\bin\Common.Logging.pdb
+\\FILE-SERVER\it-03\MY DESK\VİSUAL STUDİO\SAĞLIK SEN ÜYE KONTROL VE SMS OTOMASYONU\yeni\saglik_sen\saglik_sen\bin\Common.Logging.xml
+\\FILE-SERVER\it-03\MY DESK\VİSUAL STUDİO\SAĞLIK SEN ÜYE KONTROL VE SMS OTOMASYONU\yeni\saglik_sen\saglik_sen\bin\Common.Logging.Core.pdb
+\\FILE-SERVER\it-03\MY DESK\VİSUAL STUDİO\SAĞLIK SEN ÜYE KONTROL VE SMS OTOMASYONU\yeni\saglik_sen\saglik_sen\bin\Common.Logging.Core.xml
+\\FILE-SERVER\it-03\MY DESK\VİSUAL STUDİO\SAĞLIK SEN ÜYE KONTROL VE SMS OTOMASYONU\yeni\saglik_sen\saglik_sen\bin\DevExpress.Data.v18.1.xml
+\\FILE-SERVER\it-03\MY DESK\VİSUAL STUDİO\SAĞLIK SEN ÜYE KONTROL VE SMS OTOMASYONU\yeni\saglik_sen\saglik_sen\bin\DevExpress.Xpo.v18.1.xml
+\\FILE-SERVER\it-03\MY DESK\VİSUAL STUDİO\SAĞLIK SEN ÜYE KONTROL VE SMS OTOMASYONU\yeni\saglik_sen\saglik_sen\bin\EntityFramework.xml
+\\FILE-SERVER\it-03\MY DESK\VİSUAL STUDİO\SAĞLIK SEN ÜYE KONTROL VE SMS OTOMASYONU\yeni\saglik_sen\saglik_sen\bin\EntityFramework.SqlServer.xml
+\\FILE-SERVER\it-03\MY DESK\VİSUAL STUDİO\SAĞLIK SEN ÜYE KONTROL VE SMS OTOMASYONU\yeni\saglik_sen\saglik_sen\bin\PagedList.xml
+\\FILE-SERVER\it-03\MY DESK\VİSUAL STUDİO\SAĞLIK SEN ÜYE KONTROL VE SMS OTOMASYONU\yeni\saglik_sen\saglik_sen\bin\Quartz.pdb
+\\FILE-SERVER\it-03\MY DESK\VİSUAL STUDİO\SAĞLIK SEN ÜYE KONTROL VE SMS OTOMASYONU\yeni\saglik_sen\saglik_sen\bin\Quartz.xml
+\\FILE-SERVER\it-03\MY DESK\VİSUAL STUDİO\SAĞLIK SEN ÜYE KONTROL VE SMS OTOMASYONU\yeni\saglik_sen\saglik_sen\bin\System.Web.Helpers.xml
+\\FILE-SERVER\it-03\MY DESK\VİSUAL STUDİO\SAĞLIK SEN ÜYE KONTROL VE SMS OTOMASYONU\yeni\saglik_sen\saglik_sen\bin\System.Web.Mvc.xml
+\\FILE-SERVER\it-03\MY DESK\VİSUAL STUDİO\SAĞLIK SEN ÜYE KONTROL VE SMS OTOMASYONU\yeni\saglik_sen\saglik_sen\bin\System.Web.Optimization.xml
+\\FILE-SERVER\it-03\MY DESK\VİSUAL STUDİO\SAĞLIK SEN ÜYE KONTROL VE SMS OTOMASYONU\yeni\saglik_sen\saglik_sen\bin\System.Web.Razor.xml
+\\FILE-SERVER\it-03\MY DESK\VİSUAL STUDİO\SAĞLIK SEN ÜYE KONTROL VE SMS OTOMASYONU\yeni\saglik_sen\saglik_sen\bin\System.Web.WebPages.xml
+\\FILE-SERVER\it-03\MY DESK\VİSUAL STUDİO\SAĞLIK SEN ÜYE KONTROL VE SMS OTOMASYONU\yeni\saglik_sen\saglik_sen\bin\System.Web.WebPages.Deployment.xml
+\\FILE-SERVER\it-03\MY DESK\VİSUAL STUDİO\SAĞLIK SEN ÜYE KONTROL VE SMS OTOMASYONU\yeni\saglik_sen\saglik_sen\bin\System.Web.WebPages.Razor.xml
+\\FILE-SERVER\it-03\MY DESK\VİSUAL STUDİO\SAĞLIK SEN ÜYE KONTROL VE SMS OTOMASYONU\yeni\saglik_sen\saglik_sen\bin\Newtonsoft.Json.xml
+\\FILE-SERVER\it-03\MY DESK\VİSUAL STUDİO\SAĞLIK SEN ÜYE KONTROL VE SMS OTOMASYONU\yeni\saglik_sen\saglik_sen\bin\Antlr3.Runtime.pdb
+\\FILE-SERVER\it-03\MY DESK\VİSUAL STUDİO\SAĞLIK SEN ÜYE KONTROL VE SMS OTOMASYONU\yeni\saglik_sen\saglik_sen\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+\\FILE-SERVER\it-03\MY DESK\VİSUAL STUDİO\SAĞLIK SEN ÜYE KONTROL VE SMS OTOMASYONU\yeni\saglik_sen\saglik_sen\bin\tr\System.Web.Helpers.resources.dll
+\\FILE-SERVER\it-03\MY DESK\VİSUAL STUDİO\SAĞLIK SEN ÜYE KONTROL VE SMS OTOMASYONU\yeni\saglik_sen\saglik_sen\bin\tr\System.Web.Mvc.resources.dll
+\\FILE-SERVER\it-03\MY DESK\VİSUAL STUDİO\SAĞLIK SEN ÜYE KONTROL VE SMS OTOMASYONU\yeni\saglik_sen\saglik_sen\bin\tr\System.Web.Optimization.resources.dll
+\\FILE-SERVER\it-03\MY DESK\VİSUAL STUDİO\SAĞLIK SEN ÜYE KONTROL VE SMS OTOMASYONU\yeni\saglik_sen\saglik_sen\bin\tr\System.Web.Razor.resources.dll
+\\FILE-SERVER\it-03\MY DESK\VİSUAL STUDİO\SAĞLIK SEN ÜYE KONTROL VE SMS OTOMASYONU\yeni\saglik_sen\saglik_sen\bin\tr\System.Web.WebPages.resources.dll
+\\FILE-SERVER\it-03\MY DESK\VİSUAL STUDİO\SAĞLIK SEN ÜYE KONTROL VE SMS OTOMASYONU\yeni\saglik_sen\saglik_sen\bin\tr\System.Web.WebPages.Deployment.resources.dll
+\\FILE-SERVER\it-03\MY DESK\VİSUAL STUDİO\SAĞLIK SEN ÜYE KONTROL VE SMS OTOMASYONU\yeni\saglik_sen\saglik_sen\bin\tr\System.Web.WebPages.Razor.resources.dll
+\\FILE-SERVER\it-03\MY DESK\VİSUAL STUDİO\SAĞLIK SEN ÜYE KONTROL VE SMS OTOMASYONU\yeni\saglik_sen\saglik_sen\obj\Debug\saglik_sen.csproj.AssemblyReference.cache
+\\FILE-SERVER\it-03\MY DESK\VİSUAL STUDİO\SAĞLIK SEN ÜYE KONTROL VE SMS OTOMASYONU\yeni\saglik_sen\saglik_sen\obj\Debug\saglik_sen.csproj.CoreCompileInputs.cache
+\\FILE-SERVER\it-03\MY DESK\VİSUAL STUDİO\SAĞLIK SEN ÜYE KONTROL VE SMS OTOMASYONU\yeni\saglik_sen\saglik_sen\obj\Debug\saglik_sen.csproj.CopyComplete
+\\FILE-SERVER\it-03\MY DESK\VİSUAL STUDİO\SAĞLIK SEN ÜYE KONTROL VE SMS OTOMASYONU\yeni\saglik_sen\saglik_sen\obj\Debug\saglik_sen.dll
+\\FILE-SERVER\it-03\MY DESK\VİSUAL STUDİO\SAĞLIK SEN ÜYE KONTROL VE SMS OTOMASYONU\yeni\saglik_sen\saglik_sen\obj\Debug\saglik_sen.pdb

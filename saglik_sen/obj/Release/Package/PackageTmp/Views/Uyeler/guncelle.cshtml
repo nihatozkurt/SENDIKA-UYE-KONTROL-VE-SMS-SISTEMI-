@@ -1,0 +1,138 @@
+﻿@model saglik_sen.Models.UYELER
+@{
+    ViewBag.Title = "guncelle";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="card shadow mb-4" style="width:100%;">
+    <div class="card-header py-3">
+        <h6 class="m-0 font-weight-bold text-primary">Üye Güncelle</h6>
+    </div>
+    <div class="card-body">
+        <form class="form-group" method="post">
+            <table>
+                <tr>
+                    <td>
+
+                        <div class="form-group" hidden>
+
+                            @Html.TextBoxFor(x => x.ID, new { @class = "form-control" })
+
+
+                        </div>
+                        <div class="form-group">
+                            <b>Adı</b>
+                            @Html.TextBoxFor(x => x.AD, new { @class = "form-control" })
+                            @Html.ValidationMessageFor(x => x.AD, "", new { @style = "color:red" })
+
+                        </div>
+                        <div class="form-group">
+                            <b>Soyadı</b>
+                            @Html.TextBoxFor(x => x.SOYAD, new { @class = "form-control" })
+                            @Html.ValidationMessageFor(x => x.SOYAD, "", new { @style = "color:red" })
+
+
+                        </div>
+                        <div class="form-group">
+                            <b>Telefon</b>
+                            @Html.TextBoxFor(x => x.TEL, new { @class = "form-control" })
+                            @Html.ValidationMessageFor(x => x.TEL, "", new { @style = "color:red" })
+
+
+                        </div>
+                        <div class="form-group">
+                            <b>Doğum Tarihi</b>
+                            @Html.TextBoxFor(x => x.DOGUM_TARIHI, "{0:yyyy-MM-dd}", new { @class = "form-control", @type = "date" })
+                            @Html.ValidationMessageFor(x => x.DOGUM_TARIHI, "", new { @style = "color:red" })
+
+                        </div>
+                        <div class="form-group">
+                            <b>Kurumu</b>
+                          
+                            @Html.DropDownListFor(x => x.KURUM_ID, new SelectList((System.Collections.IEnumerable)ViewBag.kurumlar1, "KURUM_ID", "KURUM"), new { @class = "form-control" })
+
+
+                        </div>
+                        <div class="form-group">
+                            <b>TC</b>
+                            @Html.TextBoxFor(x => x.TC, new { @class = "form-control" })
+                            @Html.ValidationMessageFor(x => x.TC, "", new { @style = "color:red" })
+
+
+                        </div>
+                        <div class="form-group">
+                            <b>Ünvan</b>
+                            @Html.TextBoxFor(x => x.UNVAN, new { @class = "form-control" })
+                            @Html.ValidationMessageFor(x => x.UNVAN, "", new { @style = "color:red" })
+
+
+                        </div>
+                        <div class="form-group">
+                            <b>Üyelik Durumu</b>
+
+                            <div>
+                                <table>
+                                    <tr>
+                                        <td>
+                                            <div class="check">
+                                                @Html.CheckBoxFor(x => x.uyelik_durumu2, new { @id = "cb3", onclick = "degistir();" })
+                                                <label for="cb3"></label>
+                                            </div>
+
+
+                                            <script>
+                                                function degistir() {
+
+                                                    if (document.getElementById('cb3').checked) {
+                                                        document.getElementById('yazi1').innerText = "Aktif";
+
+                                                    }
+                                                    else { document.getElementById('yazi1').innerText = "Pasif"; }
+                                                }
+                                            </script>
+
+
+                                        </td>
+                                        <td>
+                                            <div>
+                                                @if (Model.UYELIK_DURUMU==1)
+                                                {
+
+                                                    WriteLiteral(@"<label for=""cb3""  id=""yazi1"">Aktif</label>");
+                                                }
+                                                else { WriteLiteral(@"<label for=""cb3"" id=""yazi1"">Pasif</label>"); }
+
+                                            </div>
+
+                                        </td>
+
+
+                                    </tr>
+
+                                </table>
+
+                            </div>
+                        </div>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <div class="form-group"><button class="btn btn-primary">Güncelle</button></div>
+
+                    </td>
+
+                </tr>
+
+            </table>
+        </form>
+
+
+    </div>
+
+
+
+
+
+
+</div>
+

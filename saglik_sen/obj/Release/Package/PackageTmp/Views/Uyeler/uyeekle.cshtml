@@ -1,0 +1,118 @@
+﻿@using saglik_sen.Models
+@model List<saglik_sen.Models.KURUMLAR>
+  
+@{
+    ViewBag.Title = "uyeekle";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+
+<div class="card shadow mb-4" style="width:100%">
+
+    <div class="card-header py-3">
+        <h6 class="m-0 font-weight-bold text-primary">Üye Ekle</h6>
+    </div>
+
+    <form class="form-group" method="post">
+        <table width="100%" cellspacing="0">
+            <div style="margin-top: 10px;">
+                <tr>
+                    <td>
+                        <div class="form-group" style="margin-left:10px;margin-right:10px;">
+                            <label>Ad:</label>
+                            <input class="form-control" type="text" name="AD" required/>
+
+                        </div>
+                    </td>
+
+                    <td>
+                        <div class="form-group" style="margin-right:10px;">
+                            <label>Soyad:</label>
+                            <input class="form-control" type="text" name="SOYAD" required/>
+
+                        </div>
+
+                    </td>
+                </tr>
+            </div>
+            <tr>
+                <td>
+                    <div class="form-group" style="margin-right:10px;margin-left:10px;">
+                        <label>TC:</label>
+                        <input class="form-control" maxlength="11" type="text" name="TC"  required/>
+                    </div>
+                </td>
+
+                <td>
+                    <div class="form-group" style="margin-right:10px;">
+                        <label>Kurum:</label>
+
+                        <select class="form-control" name="KURUM_ID" required>
+                            @foreach (var item in Model)
+                            {
+                                <option value="@item.KURUM_ID">@item.KURUM</option>
+
+
+
+                            }
+                        </select>
+
+                    </div>
+
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <div class="form-group" style="margin-right:10px;margin-left:10px;">
+                        <label>Telefon:</label>
+                        <input class="form-control" maxlength="11" type="tel" name="TEL" required/>
+                    </div>
+                </td>
+
+                <td>
+                    <div class="form-group" style="margin-right:10px;">
+                        <label>Ünvan:</label>
+                        <input class="form-control" type="text" name="UNVAN" />
+
+                    </div>
+
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <div class="form-group" style="margin-right:10px;margin-left:10px;">
+                        <label>Doğum Tarihi:</label>
+                        <input class="form-control" type="date"  name="DOGUM_TARIHI" required/>
+                    </div>
+                </td>
+
+                <td align="center">
+                    <div class="form-group" style="margin-right:10px;">
+                        <input type="text" name="UYELIK_DURUMU" value="1" hidden />
+
+                    </div>
+
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <div class="form-group" style="margin-right:10px;margin-left:10px;">
+                        <button class="btn btn-success">Yeni Üye Kaydet</button>
+                    </div>
+                </td>
+            </tr>
+          
+        </table>
+
+
+
+
+
+
+
+    </form>
+
+</div>
+
+

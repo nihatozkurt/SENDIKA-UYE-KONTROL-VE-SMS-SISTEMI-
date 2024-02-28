@@ -1,0 +1,268 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+  <!-- EF Runtime content -->
+  <edmx:Runtime>
+    <!-- SSDL content -->
+    <edmx:StorageModels>
+    <Schema Namespace="SAGLIKSENModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+        <EntityType Name="KULLANICILAR">
+          <Key>
+            <PropertyRef Name="KULLANICI_ID" />
+          </Key>
+          <Property Name="KULLANICI_ID" Type="int" Nullable="false" />
+          <Property Name="KULLANICI" Type="varchar" MaxLength="50" Nullable="false" />
+          <Property Name="SIFRE" Type="varchar" MaxLength="50" Nullable="false" />
+        </EntityType>
+        <EntityType Name="KURUMLAR">
+          <Key>
+            <PropertyRef Name="KURUM_ID" />
+          </Key>
+          <Property Name="KURUM_ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="KURUM" Type="varchar" MaxLength="255" Nullable="false" />
+        </EntityType>
+        <EntityType Name="LOG">
+          <Key>
+            <PropertyRef Name="ID" />
+          </Key>
+          <Property Name="ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="TC" Type="varchar" MaxLength="11" Nullable="false" />
+          <Property Name="ADI" Type="varchar" MaxLength="100" Nullable="false" />
+          <Property Name="GONDERILEN_SMS" Type="varchar" MaxLength="255" Nullable="false" />
+          <Property Name="GONDERIM_TARIHI" Type="datetime" Nullable="false" />
+        </EntityType>
+        <EntityType Name="SMS">
+          <Key>
+            <PropertyRef Name="ID" />
+          </Key>
+          <Property Name="ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="TOPLU_SMS" Type="varchar" MaxLength="255" Nullable="false" />
+          <Property Name="SMS_GONDER" Type="smallint" Nullable="false" />
+        </EntityType>
+        <EntityType Name="sysdiagrams">
+          <Key>
+            <PropertyRef Name="diagram_id" />
+          </Key>
+          <Property Name="name" Type="nvarchar" MaxLength="128" Nullable="false" />
+          <Property Name="principal_id" Type="int" Nullable="false" />
+          <Property Name="diagram_id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="version" Type="int" />
+          <Property Name="definition" Type="varbinary(max)" />
+        </EntityType>
+        <EntityType Name="UYELER">
+          <Key>
+            <PropertyRef Name="ID" />
+          </Key>
+          <Property Name="ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="TC" Type="varchar" MaxLength="11" Nullable="false" />
+          <Property Name="AD" Type="varchar" MaxLength="50" Nullable="false" />
+          <Property Name="SOYAD" Type="varchar" MaxLength="50" Nullable="false" />
+          <Property Name="KURUM_ID" Type="int" Nullable="false" />
+          <Property Name="TEL" Type="varchar" MaxLength="11" Nullable="false" />
+          <Property Name="DOGUM_TARIHI" Type="date" Nullable="false" />
+          <Property Name="UNVAN" Type="varchar" MaxLength="50" />
+          <Property Name="UYELIK_DURUMU" Type="smallint" Nullable="false" />
+        </EntityType>
+        <Association Name="FK_UYELER_KURUMLAR">
+          <End Role="KURUMLAR" Type="Self.KURUMLAR" Multiplicity="1" />
+          <End Role="UYELER" Type="Self.UYELER" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="KURUMLAR">
+              <PropertyRef Name="KURUM_ID" />
+            </Principal>
+            <Dependent Role="UYELER">
+              <PropertyRef Name="KURUM_ID" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <EntityContainer Name="SAGLIKSENModelStoreContainer">
+          <EntitySet Name="KULLANICILAR" EntityType="Self.KULLANICILAR" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="KURUMLAR" EntityType="Self.KURUMLAR" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="LOG" EntityType="Self.LOG" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="SMS" EntityType="Self.SMS" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="sysdiagrams" EntityType="Self.sysdiagrams" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="UYELER" EntityType="Self.UYELER" Schema="dbo" store:Type="Tables" />
+          <AssociationSet Name="FK_UYELER_KURUMLAR" Association="Self.FK_UYELER_KURUMLAR">
+            <End Role="KURUMLAR" EntitySet="KURUMLAR" />
+            <End Role="UYELER" EntitySet="UYELER" />
+          </AssociationSet>
+        </EntityContainer>
+      </Schema></edmx:StorageModels>
+    <!-- CSDL content -->
+    <edmx:ConceptualModels>
+      <Schema Namespace="SAGLIKSENModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+        <EntityType Name="KULLANICILAR">
+          <Key>
+            <PropertyRef Name="KULLANICI_ID" />
+          </Key>
+          <Property Name="KULLANICI_ID" Type="Int32" Nullable="false" />
+          <Property Name="KULLANICI" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+          <Property Name="SIFRE" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+        </EntityType>
+        <EntityType Name="KURUMLAR">
+          <Key>
+            <PropertyRef Name="KURUM_ID" />
+          </Key>
+          <Property Name="KURUM_ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="KURUM" Type="String" MaxLength="255" FixedLength="false" Unicode="false" Nullable="false" />
+          <NavigationProperty Name="UYELER" Relationship="Self.FK_UYELER_KURUMLAR" FromRole="KURUMLAR" ToRole="UYELER" />
+        </EntityType>
+        <EntityType Name="sysdiagrams">
+          <Key>
+            <PropertyRef Name="diagram_id" />
+          </Key>
+          <Property Name="name" Type="String" MaxLength="128" FixedLength="false" Unicode="true" Nullable="false" />
+          <Property Name="principal_id" Type="Int32" Nullable="false" />
+          <Property Name="diagram_id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="version" Type="Int32" />
+          <Property Name="definition" Type="Binary" MaxLength="Max" FixedLength="false" />
+        </EntityType>
+        <EntityType Name="UYELER">
+          <Key>
+            <PropertyRef Name="ID" />
+          </Key>
+          <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="TC" Type="String" MaxLength="11" FixedLength="false" Unicode="false" Nullable="false" />
+          <Property Name="AD" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+          <Property Name="SOYAD" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+          <Property Name="KURUM_ID" Type="Int32" Nullable="false" />
+          <Property Name="TEL" Type="String" MaxLength="11" FixedLength="false" Unicode="false" Nullable="false" />
+          <Property Name="DOGUM_TARIHI" Type="DateTime" Precision="0" Nullable="false" />
+          <Property Name="UNVAN" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+          <Property Name="UYELIK_DURUMU" Type="Int16" Nullable="false" />
+          <NavigationProperty Name="KURUMLAR" Relationship="Self.FK_UYELER_KURUMLAR" FromRole="UYELER" ToRole="KURUMLAR" />
+        </EntityType>
+        <Association Name="FK_UYELER_KURUMLAR">
+          <End Role="KURUMLAR" Type="Self.KURUMLAR" Multiplicity="1" />
+          <End Role="UYELER" Type="Self.UYELER" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="KURUMLAR">
+              <PropertyRef Name="KURUM_ID" />
+            </Principal>
+            <Dependent Role="UYELER">
+              <PropertyRef Name="KURUM_ID" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <EntityContainer Name="SAGLIKSENEntities1" annotation:LazyLoadingEnabled="true">
+          <EntitySet Name="KULLANICILAR" EntityType="Self.KULLANICILAR" />
+          <EntitySet Name="KURUMLAR" EntityType="Self.KURUMLAR" />
+          <EntitySet Name="sysdiagrams" EntityType="Self.sysdiagrams" />
+          <EntitySet Name="UYELER" EntityType="Self.UYELER" />
+          <AssociationSet Name="FK_UYELER_KURUMLAR" Association="Self.FK_UYELER_KURUMLAR">
+            <End Role="KURUMLAR" EntitySet="KURUMLAR" />
+            <End Role="UYELER" EntitySet="UYELER" />
+          </AssociationSet>
+          <EntitySet Name="LOG" EntityType="SAGLIKSENModel.LOG" />
+          <EntitySet Name="SMS" EntityType="SAGLIKSENModel.SMS" />
+        </EntityContainer>
+        <EntityType Name="LOG">
+          <Key>
+            <PropertyRef Name="ID" />
+          </Key>
+          <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="TC" Type="String" Nullable="false" MaxLength="11" FixedLength="false" Unicode="false" />
+          <Property Name="ADI" Type="String" Nullable="false" MaxLength="100" FixedLength="false" Unicode="false" />
+          <Property Name="GONDERILEN_SMS" Type="String" Nullable="false" MaxLength="255" FixedLength="false" Unicode="false" />
+          <Property Name="GONDERIM_TARIHI" Type="DateTime" Nullable="false" Precision="3" />
+        </EntityType>
+        <EntityType Name="SMS">
+          <Key>
+            <PropertyRef Name="ID" />
+          </Key>
+          <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="TOPLU_SMS" Type="String" Nullable="false" MaxLength="255" FixedLength="false" Unicode="false" />
+          <Property Name="SMS_GONDER" Type="Int16" Nullable="false" />
+        </EntityType>
+      </Schema>
+    </edmx:ConceptualModels>
+    <!-- C-S mapping content -->
+    <edmx:Mappings>
+      <Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+        <EntityContainerMapping StorageEntityContainer="SAGLIKSENModelStoreContainer" CdmEntityContainer="SAGLIKSENEntities1">
+          <EntitySetMapping Name="KULLANICILAR">
+            <EntityTypeMapping TypeName="SAGLIKSENModel.KULLANICILAR">
+              <MappingFragment StoreEntitySet="KULLANICILAR">
+                <ScalarProperty Name="KULLANICI_ID" ColumnName="KULLANICI_ID" />
+                <ScalarProperty Name="KULLANICI" ColumnName="KULLANICI" />
+                <ScalarProperty Name="SIFRE" ColumnName="SIFRE" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="KURUMLAR">
+            <EntityTypeMapping TypeName="SAGLIKSENModel.KURUMLAR">
+              <MappingFragment StoreEntitySet="KURUMLAR">
+                <ScalarProperty Name="KURUM_ID" ColumnName="KURUM_ID" />
+                <ScalarProperty Name="KURUM" ColumnName="KURUM" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="sysdiagrams">
+            <EntityTypeMapping TypeName="SAGLIKSENModel.sysdiagrams">
+              <MappingFragment StoreEntitySet="sysdiagrams">
+                <ScalarProperty Name="name" ColumnName="name" />
+                <ScalarProperty Name="principal_id" ColumnName="principal_id" />
+                <ScalarProperty Name="diagram_id" ColumnName="diagram_id" />
+                <ScalarProperty Name="version" ColumnName="version" />
+                <ScalarProperty Name="definition" ColumnName="definition" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="UYELER">
+            <EntityTypeMapping TypeName="SAGLIKSENModel.UYELER">
+              <MappingFragment StoreEntitySet="UYELER">
+                <ScalarProperty Name="ID" ColumnName="ID" />
+                <ScalarProperty Name="TC" ColumnName="TC" />
+                <ScalarProperty Name="AD" ColumnName="AD" />
+                <ScalarProperty Name="SOYAD" ColumnName="SOYAD" />
+                <ScalarProperty Name="KURUM_ID" ColumnName="KURUM_ID" />
+                <ScalarProperty Name="TEL" ColumnName="TEL" />
+                <ScalarProperty Name="DOGUM_TARIHI" ColumnName="DOGUM_TARIHI" />
+                <ScalarProperty Name="UNVAN" ColumnName="UNVAN" />
+                <ScalarProperty Name="UYELIK_DURUMU" ColumnName="UYELIK_DURUMU" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="LOG">
+            <EntityTypeMapping TypeName="SAGLIKSENModel.LOG">
+              <MappingFragment StoreEntitySet="LOG">
+                <ScalarProperty Name="GONDERIM_TARIHI" ColumnName="GONDERIM_TARIHI" />
+                <ScalarProperty Name="GONDERILEN_SMS" ColumnName="GONDERILEN_SMS" />
+                <ScalarProperty Name="ADI" ColumnName="ADI" />
+                <ScalarProperty Name="TC" ColumnName="TC" />
+                <ScalarProperty Name="ID" ColumnName="ID" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="SMS">
+            <EntityTypeMapping TypeName="SAGLIKSENModel.SMS">
+              <MappingFragment StoreEntitySet="SMS">
+                <ScalarProperty Name="SMS_GONDER" ColumnName="SMS_GONDER" />
+                <ScalarProperty Name="TOPLU_SMS" ColumnName="TOPLU_SMS" />
+                <ScalarProperty Name="ID" ColumnName="ID" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+        </EntityContainerMapping>
+      </Mapping>
+    </edmx:Mappings>
+  </edmx:Runtime>
+  <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <Connection>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="MetadataArtifactProcessing" Value="EmbedInOutputAssembly" />
+      </DesignerInfoPropertySet>
+    </Connection>
+    <Options>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="ValidateOnBuild" Value="true" />
+        <DesignerProperty Name="EnablePluralization" Value="false" />
+        <DesignerProperty Name="IncludeForeignKeysInModel" Value="true" />
+        <DesignerProperty Name="UseLegacyProvider" Value="false" />
+        <DesignerProperty Name="CodeGenerationStrategy" Value="None" />
+      </DesignerInfoPropertySet>
+    </Options>
+    <!-- Diagram content (shape and connector positions) -->
+    <Diagrams></Diagrams>
+  </Designer>
+</edmx:Edmx>

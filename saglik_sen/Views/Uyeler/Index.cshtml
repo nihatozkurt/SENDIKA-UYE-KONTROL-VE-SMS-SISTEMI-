@@ -1,0 +1,130 @@
+﻿
+
+
+
+@{ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+@section DocumentReady{
+    var model = @Html.Raw(Newtonsoft.Json.JsonConvert.SerializeObject(ViewBag.Uyeler));
+    var tablom= $('#tbl1').DataTable({
+    "language": {
+
+    "sProcessing": "İşleniyor...",
+    "sLengthMenu": "Sayfada _MENU_ Kayıt Göster",
+    "sZeroRecords": "Eşleşen Kayıt Bulunmadı",
+    "sInfo": "  _TOTAL_ Kayıttan _START_ - _END_ Arası Kayıtlar",
+    "sInfoEmpty": "Kayıt Yok",
+    "sInfoFiltered": "( _MAX_ Kayıt İçerisinden Bulunan)",
+    "sInfoPostFix": "",
+    "sSearch": "Ara:",
+    "sUrl": "",
+    "oPaginate": {
+    "sFirst": "İlk",
+    "sPrevious": "Önceki",
+    "sNext": "Sonraki",
+    "sLast": "Son"
+
+    }
+    },
+
+    columns: [
+    {
+    title: 'Ad',
+    data: 'AD',
+    },
+    {
+    title: 'Soyad',
+    data: 'SOYAD',
+    },
+    {
+    title: 'Kurumu',
+    data: 'KURUMADI',
+    },
+    {
+    title: 'Ünvan',
+    data: 'UNVAN',
+    },
+    {
+    title: 'Doğum Tarihi',
+    data: 'DOGUM_TARIHI',
+    },
+    {
+    title: 'TC',
+    data: 'TC',
+    },
+    {
+    title: 'Telefon',
+    data: 'TEL',
+    },
+    {
+    title: 'Üyelik Durumu',
+    data: 'UYELIK_DURUMU',
+    },
+    {
+    title: 'Güncelle'
+
+    },
+    ],
+
+    columnDefs: [
+    {
+    "targets" : [ 7 ],
+    render : function (data, type, row) {
+    if(row.UYELIK_DURUMU == 'Aktif'){
+    return '<b class="aktifyazisi">'+row.UYELIK_DURUMU+'</b>'
+    }
+    else{
+    return '<b class="deaktifyazisi">'+row.UYELIK_DURUMU+'</b>'    }
+    }},
+
+    {
+    "targets" : [ 8 ],
+    render : function (data, type, row) {
+    return '<a href="/Uyeler/guncelle/'+row.ID+'" class="btn btn-outline-primary">Güncelle</a> <a href="/Uyeler/Sil/'+row.ID+'" class="btn btn-outline-danger" onclick = "return confirm(\'Kalıcı Olarak Silmek İstiyor Musunuz?\')" >Sil</a>'
+    }}
+
+
+
+
+
+    ]
+
+
+
+    });
+
+    tablom.rows.add(model).draw();
+
+
+
+
+
+
+
+}
+<div class="card shadow mb-4" id="anadiv" style="width:100%;">
+    <div class="card-header py-3">
+        <h6 class="m-0 font-weight-bold text-primary">Üyeler</h6>
+    </div>
+    <div class="card-body">
+        <div class="table-responsive">
+
+            <table class="table table-condensed table-hover dataTable no-footer" id="tbl1" width="100%" cellspacing="0">
+            </table>
+
+            <div>
+                <a href="~/Uyeler/uyeekle/" class=" btn btn-success">Üye Ekle</a>
+
+            </div>
+
+        </div>
+    </div>
+</div>
+
+
+
+
+
+
+

@@ -1,0 +1,65 @@
+﻿@model saglik_sen.SmsVM.KurumSmsVM
+
+@{
+    ViewBag.Title = "KurumSMSGONDER";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+
+
+
+<div class="card shadow mb-4" style="width:100%">
+
+    <div class="card-header py-3">
+        <h6 class="m-0 font-weight-bold text-primary">Üye Ekle</h6>
+    </div>
+
+    <form  class="form-group" method="post">
+
+        <table width="100%" cellspacing="0">
+                <tr>
+                    <td>
+                        <div class="form-group" style="margin-left:10px;margin-right:10px;">
+                            <label>Mesaj:</label>
+                            <input class="form-control" type="text" name="mesaj" required />
+
+                        </div>
+                    </td>
+                </tr>
+            <tr>
+                <td>
+                    <div class="form-group" style="margin-right:10px;">
+                        <label>Kurum:</label>
+
+                        <select class="form-control" name="KURUM_ID" required>
+                            @foreach (var item in ViewBag.kurumlar)
+                            {
+                                <option value="@item.KURUM_ID">@item.KURUM</option>
+
+                            }
+                        </select>
+
+                    </div>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <div class="form-group" style="margin-right:10px;margin-left:10px;">
+                        <button class="btn btn-success"> Kaydet</button>
+                    </div>
+                </td>
+            </tr>
+        </table>
+
+
+
+
+
+
+
+    </form>
+
+</div>
+
+
